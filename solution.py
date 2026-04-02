@@ -1,5 +1,6 @@
 import json
 
+from src.data_diagnostics import run
 from src.file_loader import load_companies
 from src.jsonl_normalize import normalize_companies
 
@@ -19,6 +20,9 @@ def main():
     normalized_companies=normalize_companies(raw_companies)
     print(f"Normalized {len(normalized_companies)} companies")
     preview_companies(normalized_companies,n=3)
+
+    #dataset diagnostics
+    run(normalized_companies)
 
 if __name__ == "__main__":
     main()
