@@ -1,16 +1,24 @@
-# This is a sample Python script.
+import json
 
-# Press Ctrl+F5 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+from src.file_loader import load_companies
+from src.jsonl_normalize import normalize_companies
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def preview_companies(companies:list,n:int=3):
+    #print first n normalized companies for debugging purposes
+    max_items=min(n,len(companies))
+    for i in range(max_items):
+        company=companies[i]
+        print(f"COMPANY {i+1}:")
+        print(json.dumps(company.to_dict(), indent=2, ensure_ascii=False))
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+def main():
+    companies_path="data/companies.jsonl"
+    raw_companies=load_companies(companies_path)
+
+    normalized_companies=normalize_companies(raw_companies)
+    print(f"Normalized {len(normalized_companies)} companies")
+    preview_companies(normalized_companies,n=3)
+
+if __name__ == "__main__":
+    main()
