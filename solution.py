@@ -3,6 +3,7 @@ import json
 from src.data_diagnostics import run
 from src.file_loader import load_companies
 from src.jsonl_normalize import normalize_companies
+from src.query_parser import main_parse_query
 
 
 def preview_companies(companies:list,n:int=3):
@@ -12,6 +13,13 @@ def preview_companies(companies:list,n:int=3):
         company=companies[i]
         print(f"COMPANY {i+1}:")
         print(json.dumps(company.to_dict(), indent=2, ensure_ascii=False))
+
+def preview_queries(queries:list[str]):
+    for query in queries:
+        parsed_query=main_parse_query(query)
+        print(f"Raw Query: {query}")
+        print(json.dumps(parsed_query.to_dict(),indent=2,ensure_ascii=False))
+
 
 def main():
     companies_path="data/companies.jsonl"
@@ -23,6 +31,15 @@ def main():
 
     #dataset diagnostics
     run(normalized_companies)
+
+    test_queries=[
+        "public software companies with more than 1000 employees in switzerland",
+        "b2b saas companies providing hr solutions in europe",
+        "fast-growing fintech companies competing with traditional banks in europe",
+        "companies that could supply packaging materials for a cosmetics brand",
+        "battery manufacturing companies in france",
+    ]
+    preview_queries(test_queries)
 
 if __name__ == "__main__":
     main()
