@@ -3,6 +3,7 @@ import json
 from src.candidate_generation import generate_candidates, print_candidates
 from src.data_diagnostics import run
 from src.file_loader import load_companies
+from src.hard_filtering import filter_candidates_by_hard_constraints, print_filtered_candidates
 from src.jsonl_normalize import normalize_companies
 from src.query_parser import main_parse_query
 
@@ -46,6 +47,10 @@ def main():
         parsed_query=main_parse_query(query)
         candidates=generate_candidates(parsed_query,normalized_companies)
         print_candidates(parsed_query,candidates)
+
+        filtered_candidates=filter_candidates_by_hard_constraints(parsed_query,candidates)
+        print_filtered_candidates(parsed_query,filtered_candidates)
+
 
 if __name__ == "__main__":
     main()
