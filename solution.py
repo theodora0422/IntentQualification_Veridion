@@ -1,5 +1,6 @@
 import json
 
+from src.candidate_generation import generate_candidates, print_candidates
 from src.data_diagnostics import run
 from src.file_loader import load_companies
 from src.jsonl_normalize import normalize_companies
@@ -40,6 +41,11 @@ def main():
         "battery manufacturing companies in france",
     ]
     preview_queries(test_queries)
+
+    for query in test_queries:
+        parsed_query=main_parse_query(query)
+        candidates=generate_candidates(parsed_query,normalized_companies)
+        print_candidates(parsed_query,candidates)
 
 if __name__ == "__main__":
     main()
