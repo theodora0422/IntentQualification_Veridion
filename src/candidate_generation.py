@@ -20,6 +20,47 @@ def text_contains_term(text:str,term:str):
     if normalized_term=="":
         return False
     return normalized_term in normalized_text
+def company_matches_term(company:CompanyProfile,term:str):
+    if text_contains_term(company.primary_naics_label,term):
+        return True
+    if text_contains_term(company.description,term):
+        return True
+    if text_contains_term(company.full_profile,term):
+        return True
+    if count_matches_in_list(company.business_model,[term])>0:
+        return True
+    if count_matches_in_list(company.target_markets,[term])>0:
+        return True
+    if count_matches_in_list(company.core_offerings,[term])>0:
+        return True
+    return False
+def get_required_terms_for_candidate_generation(query:QueryRepresentation):
+    #return the most important semantic terms for candidate generation
+    required_terms=[]
+    generic_terms={
+        "manufacturing",
+        "retail",
+        "enterprise",
+        "service provider",
+        "wholesale",
+        "cosmetics",
+    }
+    for term in query.industry_terms:
+        if term not in generic_terms:
+            if term not in required_terms:
+                required_terms.append(term)
+    if "packaging" in query.normalized_query:
+        if "packaging" not in required_terms:
+            required_terms.append("packaging")
+    return required_terms
+def matches_any_required_term(query:QueryRepresentation,company:CompanyProfile):
+    required_terms=get_required_terms_for_candidate_generation(query)
+    if len(required_terms)==0:
+        return True
+    for term in required_terms:
+        if company_matches_term(company,term):
+            return True
+    return False
 def count_matches_in_list(values:list[str],query_terms:list[str]):
     #count how many query terms appear in a list of company values
     match_count=0
@@ -64,6 +105,10 @@ def score_industry(query:QueryRepresentation,company:CompanyProfile):
                 score=score+3.0
                 matched=True
         if not matched and company.description is not None:
+            if text_contains_term(company.description,industry_term):
+                score=score+1.5
+                matched=True
+        if not matched and company.full_profile is not None:
             if text_contains_term(company.full_profile,industry_term):
                 score=score+1.0
     return score
@@ -121,6 +166,11 @@ def generate_candidates(query:QueryRepresentation,companies:list[CompanyProfile]
     #score all candidates and return top_k
     scored_candidates=[]
     for company in companies:
+        #for structured and mixed queries require at least one required semantic match otheerwise the candidate pool gets filled with
+        #country matches or generic companies
+        if query.query_type in ["structured","mixed"]:
+            if not matches_any_required_term(query, company):
+                continue
         candidate_score=score_candidate(query, company)
         scored_candidates.append((company,candidate_score))
     scored_candidates.sort(key=lambda item:item[1],reverse=True)
