@@ -6,6 +6,8 @@ from src.file_loader import load_companies
 from src.final_scoring import rerank_filtered_candidates, print_reranked_candidates
 from src.hard_filtering import filter_candidates_by_hard_constraints, print_filtered_candidates
 from src.jsonl_normalize import normalize_companies
+from src.llm_reranker import should_use_llm, rerank_with_llm, print_llm_reranked_candidates
+from src.openai_client import call_openai_llm_with_json_schema
 from src.query_parser import main_parse_query
 
 
@@ -54,6 +56,10 @@ def main():
 
         reranked_candidates=rerank_filtered_candidates(parsed_query,filtered_candidates)
         print_reranked_candidates(parsed_query,reranked_candidates)
+
+        if should_use_llm(parsed_query,reranked_candidates):
+            llm_candidates=rerank_with_llm(parsed_query,reranked_candidates,call_openai_llm_with_json_schema,5)
+            print_llm_reranked_candidates(parsed_query,llm_candidates,top_k=5)
 
 if __name__ == "__main__":
     main()
