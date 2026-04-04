@@ -84,6 +84,18 @@ TARGET_MARKET_KEYWORDS=[
     "real estate",
     "logistics",
 ]
+CAPABILITY_KEYWORDS=[
+    "packaging",
+    "packaging materials",
+    "bottle",
+    "bottles",
+    "container",
+    "containers",
+    "glass",
+    "plastic",
+    "paperboard",
+    "mold",
+]
 def normalize_query_text(query:str):
     #lowercase and clean whitespace
     if query is None:
@@ -187,6 +199,7 @@ def main_parse_query(query:str):
     industry_terms=find_keywords(normalized_query,INDUSTRY_KEYWORDS)
     business_model_terms=find_keywords(normalized_query,BUSINESS_MODEL_KEYWORDS)
     target_market_terms=find_keywords(normalized_query,TARGET_MARKET_KEYWORDS)
+    capability_terms=find_keywords(normalized_query,CAPABILITY_KEYWORDS)
     relational_terms=find_keywords(normalized_query,RELATIONAL_KEYWORDS)
     vague_terms=find_keywords(normalized_query,VAGUE_KEYWORDS)
     is_public=parse_public_status(normalized_query)
@@ -197,6 +210,6 @@ def main_parse_query(query:str):
         country_codes, region_terms, industry_terms, business_model_terms, relational_terms, vague_terms, is_public, min_employee_count, max_employee_count, min_revenue, max_revenue, min_year_founded, max_year_founded
     )
     query_representation=QueryRepresentation(
-        query,normalized_query, query_type, country_codes, region_terms, industry_terms, business_model_terms, target_market_terms, relational_terms, vague_terms, is_public, min_employee_count, max_employee_count, min_revenue, max_revenue, min_year_founded, max_year_founded
+        query,normalized_query, query_type, country_codes, region_terms, industry_terms, business_model_terms, target_market_terms, capability_terms,relational_terms, vague_terms, is_public, min_employee_count, max_employee_count, min_revenue, max_revenue, min_year_founded, max_year_founded
     )
     return query_representation

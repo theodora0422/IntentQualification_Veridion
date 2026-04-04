@@ -44,27 +44,22 @@ def build_llm_prompt(query:QueryRepresentation,company:CompanyProfile,candidate_
     prompt = f"""
     You are evaluating whether a company truly matches a user query.
 
-    Your task:
-    1. Read the query
-    2. Read the company profile
-    3. Decide whether this company is:
-       - "strong_match"
-       - "possible_match"
-       - "weak_match"
-       - "not_a_match"
+    Return ONLY a valid JSON object.
+    Do not include markdown.
+    Do not include code fences.
+    Do not include extra text.
 
-    Important:
-    - Respect explicit constraints in the query
-    - Do not confuse semantic similarity with actual role match
-    - For relationship-heavy queries, reason about the company's role
-    - If evidence is weak or indirect, do not overclaim
+    Allowed labels:
+    - strong_match
+    - possible_match
+    - weak_match
+    - not_match
 
-    Return ONLY valid JSON with this exact schema:
-    {{
-      "label": "strong_match" | "possible_match" | "weak_match" | "not_a_match",
-      "llm_score": integer from 0 to 10,
-      "explanation": "short explanation"
-    }}
+    Scoring guidance:
+    - strong_match = clear and direct fit
+    - possible_match = plausible but incomplete or indirect fit
+    - weak_match = weak evidence
+    - not_match = does not satisfy the query
 
     User query:
     {query.raw_query}
@@ -81,35 +76,53 @@ def build_llm_prompt(query:QueryRepresentation,company:CompanyProfile,candidate_
 
     Company profile:
     {company_summary}
+
+    Return JSON with this exact schema:
+    {{
+      "label": "strong_match" | "possible_match" | "weak_match" | "not_match",
+      "llm_score": integer from 0 to 10,
+      "explanation": "short explanation"
+    }}
     """.strip()
     return prompt
-def parse_llm_response(raw_response:str):
-    fallback={
-        "label":"weak_match",
-        "llm_score":3,
-        "explanation":"LLM response could not be parsed"
+def parse_llm_response(raw_response: str):
+    fallback = {
+        "label": "weak_match",
+        "llm_score": 3,
+        "explanation": "LLM response could not be parsed"
     }
+
     if raw_response is None:
         return fallback
-    raw_response=raw_response.strip()
-    if raw_response=="":
+
+    raw_response = raw_response.strip()
+    if raw_response == "":
         return fallback
+
+    if raw_response.startswith("```"):
+        raw_response = raw_response.strip("`")
+        raw_response = raw_response.replace("json\n", "", 1).strip()
+
     try:
-        parsed=json.loads(raw_response)
-        label=parsed.get("label")
-        llm_score=parsed.get("llm_score")
-        explanation=parsed.get("explanation")
-        valid_labels=["strong_match","possible_match","weak_match","not_match"]
+        parsed = json.loads(raw_response)
+        label = parsed.get("label")
+        llm_score = parsed.get("llm_score")
+        explanation = parsed.get("explanation")
+
+        valid_labels = ["strong_match", "possible_match", "weak_match", "not_match"]
         if label not in valid_labels:
-            label="weal_match"
-        if not isinstance(llm_score,int):
-            llm_score=3
-        if not isinstance(explanation,str):
-            explanation="No explanation provided"
+            label = "weak_match"
+
+        if not isinstance(llm_score, int):
+            llm_score = 3
+
+        if not isinstance(explanation, str):
+            explanation = "No explanation provided"
+
         return {
-            "label":label,
-            "llm_score":llm_score,
-            "explanation":explanation,
+            "label": label,
+            "llm_score": llm_score,
+            "explanation": explanation,
         }
     except Exception:
         return fallback
@@ -131,6 +144,21 @@ def rerank_with_llm(query:QueryRepresentation,reranked_candidates:list[tuple[Com
         prompt=build_llm_prompt(query,company,candidate_score,final_score,reasons)
         raw_response=call_llm(prompt)
         llm_result=parse_llm_response(raw_response)
+        if "LLM unavailable" in llm_result["explanation"]:
+            llm_adjusted_score = final_score
+
+            output.append(
+                (
+                    company,
+                    candidate_score,
+                    final_score,
+                    llm_adjusted_score,
+                    evaluation,
+                    reasons,
+                    llm_result,
+                )
+            )
+            continue
         llm_bonus=llm_label_to_score(llm_result["label"])
         llm_adjusted_score=final_score+llm_bonus+(llm_result["llm_score"]*0.2)
         output.append((company,candidate_score,final_score,llm_adjusted_score,evaluation,reasons,llm_result))

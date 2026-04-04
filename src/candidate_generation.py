@@ -20,6 +20,7 @@ def text_contains_term(text:str,term:str):
     if normalized_term=="":
         return False
     return normalized_term in normalized_text
+
 def company_matches_term(company:CompanyProfile,term:str):
     if text_contains_term(company.primary_naics_label,term):
         return True
@@ -36,8 +37,16 @@ def company_matches_term(company:CompanyProfile,term:str):
     return False
 def get_required_terms_for_candidate_generation(query:QueryRepresentation):
     #return the most important semantic terms for candidate generation
-    required_terms=[]
-    generic_terms={
+    required_terms = []
+
+    if hasattr(query, "capability_terms"):
+        if len(query.capability_terms) > 0:
+            for term in query.capability_terms:
+                if term not in required_terms:
+                    required_terms.append(term)
+            return required_terms
+
+    generic_terms = {
         "manufacturing",
         "retail",
         "enterprise",
@@ -45,13 +54,12 @@ def get_required_terms_for_candidate_generation(query:QueryRepresentation):
         "wholesale",
         "cosmetics",
     }
+
     for term in query.industry_terms:
         if term not in generic_terms:
             if term not in required_terms:
                 required_terms.append(term)
-    if "packaging" in query.normalized_query:
-        if "packaging" not in required_terms:
-            required_terms.append("packaging")
+
     return required_terms
 def matches_any_required_term(query:QueryRepresentation,company:CompanyProfile):
     required_terms=get_required_terms_for_candidate_generation(query)
@@ -112,6 +120,17 @@ def score_industry(query:QueryRepresentation,company:CompanyProfile):
             if text_contains_term(company.full_profile,industry_term):
                 score=score+1.0
     return score
+def score_capability_terms(query:QueryRepresentation,company:CompanyProfile):
+    #score terms that represent the concrete capability the user is looking for
+    score=0.0
+    if not hasattr(query,"capability_terms"):
+        return score
+    capability_match_count=0
+    for term in query.capability_terms:
+        if company_matches_term(company,term):
+            capability_match_count+=1
+    score=score+(capability_match_count*3.0)
+    return score
 def score_business_model(query:QueryRepresentation,company:CompanyProfile):
     score=0.0
     match_count=count_matches_in_list(company.business_model,query.business_model_terms)
@@ -156,6 +175,7 @@ def score_candidate(query:QueryRepresentation,company:CompanyProfile):
     score=0.0
     score=score+score_geography(query,company)
     score=score+score_industry(query, company)
+    score=score_capability_terms(query,company)
     score=score+score_business_model(query, company)
     score=score+score_target_markets(query, company)
     score=score+score_core_offerings(query,company)

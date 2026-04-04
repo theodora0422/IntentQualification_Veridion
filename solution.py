@@ -7,7 +7,7 @@ from src.final_scoring import rerank_filtered_candidates, print_reranked_candida
 from src.hard_filtering import filter_candidates_by_hard_constraints, print_filtered_candidates
 from src.jsonl_normalize import normalize_companies
 from src.llm_reranker import should_use_llm, rerank_with_llm, print_llm_reranked_candidates
-from src.openai_client import call_openai_llm_with_json_schema
+from src.genai_client import call_openai_llm_with_json_schema
 from src.query_parser import main_parse_query
 
 

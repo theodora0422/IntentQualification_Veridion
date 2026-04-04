@@ -41,20 +41,28 @@ def company_matches_term(company:CompanyProfile,term:str):
 def get_required_terms(query:QueryRepresentation):
     #return semantic terms that should matter the most
     required_terms=[]
+
+    if hasattr(query, "capability_terms"):
+        if len(query.capability_terms) > 0:
+            for term in query.capability_terms:
+                if term not in required_terms:
+                    required_terms.append(term)
+            return required_terms
+
     generic_terms={
         "manufacturing",
         "retail",
         "enterprise",
         "service provider",
         "wholesale",
+        "cosmetics",
     }
+
     for term in query.industry_terms:
         if term not in generic_terms:
             if term not in required_terms:
                 required_terms.append(term)
-    if "packaging" in query.normalized_query:
-        if "packaging" not in required_terms:
-            required_terms.append("packaging")
+
     return required_terms
 def get_supportive_terms(query:QueryRepresentation):
     #return semantic terms that help but not dominate the ranking
@@ -193,6 +201,7 @@ def score_final_candidate(query:QueryRepresentation,company:CompanyProfile,candi
     if "packaging" in query_text:
         packaging_score,packaging_reasons=score_packaging_signal(company)
         final_score+=packaging_score
+        reasons.extend(packaging_reasons)
     if "fintech" in query_text or "banks" in query_text or "bank" in query_text:
         fintech_score,fintech_reasons=score_fintech_signal(company)
         final_score+=fintech_score
