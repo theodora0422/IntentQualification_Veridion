@@ -1,0 +1,27 @@
+{
+  "raw_query": "E-commerce companies using Shopify or similar platforms",
+  "normalized_query": "e-commerce companies using shopify or similar platforms",
+  "query_type": "strong-reasoning",
+  "country_codes": [],
+  "region_terms": [],
+  "industry_terms": [
+    "e-commerce"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [
+    "using",
+    "similar platforms"
+  ],
+  "vague_terms": [
+    "similar"
+  ],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

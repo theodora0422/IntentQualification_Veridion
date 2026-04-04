@@ -1,0 +1,22 @@
+{
+  "raw_query": "Public software companies with more than 1,000 employees.",
+  "normalized_query": "public software companies with more than 1,000 employees.",
+  "query_type": "mixed",
+  "country_codes": [],
+  "region_terms": [],
+  "industry_terms": [
+    "software"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [],
+  "vague_terms": [],
+  "is_public": true,
+  "min_employee_count": 1000.0,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

@@ -1,0 +1,599 @@
+Rank 1
+Name: Next Fabrication
+Website: nextfabrication.com
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 7.25
+
+Rank 2
+Name: Winergy Finland
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 7.25
+
+Rank 3
+Name: Rongbai Lithium Battery
+Website: ronbaymat.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 7.25
+
+Rank 4
+Name: Hunan Yueneng New Energy Battery Material Co., Ltd.
+Website: hunanyuneng.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 7.25
+
+Rank 5
+Name: Sepion Technologies
+Website: sepiontechnologies.com
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 7.25
+
+Rank 6
+Name: Mitra Chem
+Website: mitrachem.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 7.25
+
+Rank 7
+Name: Stratus Materials
+Website: stratusmaterials.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 7.25
+
+Rank 8
+Name: Next Fabrication
+Website: nextfabrication.com
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 7.25
+
+Rank 9
+Name: Rompetrol
+Website: rompetrol.ro
+Primary NAICS: Petroleum Refineries
+Candidate Score: 6.5
+
+Rank 10
+Name: Rompetrol
+Website: rompetrol.com
+Primary NAICS: Petroleum Refineries
+Candidate Score: 6.5
+
+Rank 11
+Name: OMV
+Website: omv.ro
+Primary NAICS: Other Gasoline Stations
+Candidate Score: 6.5
+
+Rank 12
+Name: Romgaz
+Website: romgaz.ro
+Primary NAICS: Natural Gas Extraction
+Candidate Score: 6.5
+
+Rank 13
+Name: Transgaz
+Website: transgaz.ro
+Primary NAICS: Natural Gas Distribution
+Candidate Score: 6.5
+
+Rank 14
+Name: Kiewit
+Website: kiewit.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 6.5
+
+Rank 15
+Name: Quanta Services
+Website: quantaservices.com
+Primary NAICS: Power and Communication Line and Related Structures Construction
+Candidate Score: 6.5
+
+Rank 16
+Name: EMCOR Group
+Website: emcorgroup.com
+Primary NAICS: Electrical Contractors and Other Wiring Installation Contractors
+Candidate Score: 6.5
+
+Rank 17
+Name: Bechtel
+Website: bechtel.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 6.5
+
+Rank 18
+Name: Hydra Tidal Energy Technology
+Website: None
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 19
+Name: Siemens Energy
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 20
+Name: Wave Dragon
+Website: wavedragon.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 21
+Name: Moventas
+Website: moventas.com
+Primary NAICS: Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing
+Candidate Score: 6.5
+
+Rank 22
+Name: ICEWIND
+Website: icewind.is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 23
+Name: Ventum Dynamics
+Website: ventumdynamics.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 24
+Name: Rögle Vindkraftpark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 25
+Name: Norhybrid Renewables
+Website: norhybrid.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 26
+Name: Tesla Ocean Turbine
+Website: teslaoceanturbine.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 27
+Name: Naust Marine
+Website: naust.is
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 6.5
+
+Rank 28
+Name: ENERCON
+Website: None
+Primary NAICS: Wind Electric Power Generation
+Candidate Score: 6.5
+
+Rank 29
+Name: Puhuri
+Website: puhuri.fi
+Primary NAICS: Wind Electric Power Generation
+Candidate Score: 6.5
+
+Rank 30
+Name: Liftra
+Website: liftra.com
+Primary NAICS: Construction Machinery Manufacturing
+Candidate Score: 6.5
+
+Rank 31
+Name: windainergy
+Website: windainergy.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 32
+Name: MantaWind
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 33
+Name: Aeolos Wind Turbine Company
+Website: betaflight.cn
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 34
+Name: Vestas
+Website: vestas.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 35
+Name: Texon
+Website: texonsystems.com
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Candidate Score: 6.5
+
+Rank 36
+Name: Varmalämmitys
+Website: varmalammitys.fi
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Candidate Score: 6.5
+
+Rank 37
+Name: Carita och Torbjörn
+Website: cktl.se
+Primary NAICS: Wind Electric Power Generation
+Candidate Score: 6.5
+
+Rank 38
+Name: SideWind
+Website: sidewind.is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 39
+Name: International Wind Energy
+Website: None
+Primary NAICS: Other Electronic Parts and Equipment Merchant Wholesalers
+Candidate Score: 6.5
+
+Rank 40
+Name: Sowin Power
+Website: sowinpower.no
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 6.5
+
+Rank 41
+Name: World Wide Wind
+Website: worldwidewind.no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 42
+Name: CIRKEL Energi
+Website: cirkelenergi.dk
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Candidate Score: 6.5
+
+Rank 43
+Name: Galileo Empower Finland
+Website: galileoempower.fi
+Primary NAICS: Wind Electric Power Generation
+Candidate Score: 6.5
+
+Rank 44
+Name: DEIF Wind Power Technology
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 45
+Name: Teqniq
+Website: teqniq.fi
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 46
+Name: JN-Solar
+Website: jn-solar.fi
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 6.5
+
+Rank 47
+Name: Pellbin Turbine
+Website: pellbin.se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 48
+Name: Sunnytek
+Website: sunnytek.se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 6.5
+
+Rank 49
+Name: Norwin Energy
+Website: norwinenergy.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 50
+Name: Fallorka
+Website: fallorka.is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 51
+Name: Verta
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 52
+Name: Rhino Power
+Website: rhinopower.fi
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 6.5
+
+Rank 53
+Name: VASOL TECH
+Website: vasol.se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 6.5
+
+Rank 54
+Name: Sol Industries
+Website: sol-ind.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 55
+Name: Krefter
+Website: krefter.no
+Primary NAICS: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
+Candidate Score: 6.5
+
+Rank 56
+Name: Erikshester Vindpark
+Website: vindparken.se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 57
+Name: Envision Energy Denmark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 58
+Name: Ecopwr
+Website: ecopwr.se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 6.5
+
+Rank 59
+Name: DEIF
+Website: deif.com
+Primary NAICS: Relay and Industrial Control Manufacturing
+Candidate Score: 6.5
+
+Rank 60
+Name: Logic-Energy
+Website: teunhulst.nl
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 61
+Name: Bioener
+Website: None
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Candidate Score: 6.5
+
+Rank 62
+Name: Fred. Olsen 1848
+Website: fredolsen1848.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 6.5
+
+Rank 63
+Name: Dell Technologies
+Website: dell.com
+Primary NAICS: Electronic Computer Manufacturing
+Candidate Score: 6.5
+
+Rank 64
+Name: Volta Capital
+Website: voltacapital.it
+Primary NAICS: Other Scientific and Technical Consulting Services
+Candidate Score: 6.5
+
+Rank 65
+Name: Utilify
+Website: utilifyapp.com
+Primary NAICS: Other Scientific and Technical Consulting Services
+Candidate Score: 6.5
+
+Rank 66
+Name: Tri Hita Consulting
+Website: trihita-consulting.com
+Primary NAICS: Other Management Consulting Services
+Candidate Score: 6.5
+
+Rank 67
+Name: Solarschmiede
+Website: solarschmiede.ch
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 68
+Name: Auratech Engineering
+Website: auratechpro.it
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 69
+Name: Inside Edge
+Website: inside-edge.co.uk
+Primary NAICS: Administrative Management and General Management Consulting Services
+Candidate Score: 6.5
+
+Rank 70
+Name: Enviroway Advisory
+Website: envirowayadvisory.com
+Primary NAICS: Other Scientific and Technical Consulting Services
+Candidate Score: 6.5
+
+Rank 71
+Name: Energy-Technik
+Website: energy-technik.com
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 72
+Name: PACE
+Website: pace-energy.eu
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 73
+Name: Styri
+Website: styri.eu
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 74
+Name: Archipel Bouwadvies
+Website: archipelbouwadvies.nl
+Primary NAICS: Architectural Services
+Candidate Score: 6.5
+
+Rank 75
+Name: Asvata
+Website: asvata.com
+Primary NAICS: Environmental Consulting Services
+Candidate Score: 6.5
+
+Rank 76
+Name: MCR Proyectos
+Website: mcrproyectos.cl
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 77
+Name: NextGEN Energy
+Website: nextgen-energy.eu
+Primary NAICS: Engineering Services
+Candidate Score: 6.5
+
+Rank 78
+Name: E-Lyte
+Website: e-lyte.de
+Primary NAICS: All Other Miscellaneous Chemical Product and Preparation Manufacturing
+Candidate Score: 6.5
+
+Rank 79
+Name: Wanbang New Energy
+Website: scusne.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 80
+Name: Solid Power
+Website: solidpowerbattery.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 81
+Name: NexTech Batteries
+Website: nextechbatteries.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 82
+Name: SolidEdge Solution
+Website: solidedgesolution.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 83
+Name: RJETech
+Website: None
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 84
+Name: Sili Energy
+Website: silienergy.kr
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 85
+Name: Hisun
+Website: thehisun.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 6.5
+
+Rank 86
+Name: FeovaEnergy
+Website: feovaenergy.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 6.5
+
+Rank 87
+Name: Li Hongte
+Website: lihongte.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 6.5
+
+Rank 88
+Name: Dongdao New Energy
+Website: dongdaochina.cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 6.5
+
+Rank 89
+Name: RJETech
+Website: rjetech.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 90
+Name: East Saint先行
+Website: ayxxgbyy.com.cn
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 91
+Name: POLYENTECH
+Website: polyentech.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 6.5
+
+Rank 92
+Name: BTR New Material Group
+Website: None
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 6.5
+
+Rank 93
+Name: Nanjing Blue Solid New Energy
+Website: liongo.com.cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 6.5
+
+Rank 94
+Name: Nuvvon
+Website: nuvvon.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 95
+Name: QuantumScape
+Website: quantumscape.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 96
+Name: Taibang New Energy
+Website: ctlne.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 97
+Name: Fengyang Pengen
+Website: pennenergy.cn
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 98
+Name: Rusaccum
+Website: rusaccum.ru
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 99
+Name: Nascent Materials
+Website: nascentmaterials.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5
+
+Rank 100
+Name: Anda Technology
+Website: ad-lib.cn
+Primary NAICS: Battery Manufacturing
+Candidate Score: 6.5

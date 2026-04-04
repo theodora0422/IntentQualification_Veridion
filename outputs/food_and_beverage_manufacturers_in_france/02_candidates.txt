@@ -1,0 +1,305 @@
+Rank 1
+Name: Bunge Romania
+Website: bunge-romania.ro
+Primary NAICS: Soybean and Other Oilseed Processing
+Candidate Score: 6.75
+
+Rank 2
+Name: Goya Foods
+Website: goya.com
+Primary NAICS: All Other Miscellaneous Food Manufacturing
+Candidate Score: 6.75
+
+Rank 3
+Name: Silver Spur
+Website: silverspurcorp.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 6.75
+
+Rank 4
+Name: La Péro
+Website: la-pero.fr
+Primary NAICS: Wineries
+Candidate Score: 6.75
+
+Rank 5
+Name: Famille Pouille
+Website: pouille.eu
+Primary NAICS: All Other Miscellaneous Food Manufacturing
+Candidate Score: 6.75
+
+Rank 6
+Name: Kermené
+Website: kermene.fr
+Primary NAICS: Meat Processed from Carcasses
+Candidate Score: 6.75
+
+Rank 7
+Name: METRO România
+Website: metro.ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 5.25
+
+Rank 8
+Name: European Drinks
+Website: europeandrinks.ro
+Primary NAICS: Bottled Water Manufacturing
+Candidate Score: 5.25
+
+Rank 9
+Name: L'Essinganaise
+Website: lessinganaise.com
+Primary NAICS: Specialty Canning
+Candidate Score: 5.25
+
+Rank 10
+Name: LA MULTILOCALE
+Website: lamultilocale.org
+Primary NAICS: All Other Miscellaneous Food Manufacturing
+Candidate Score: 5.25
+
+Rank 11
+Name: Domaine Godeau
+Website: None
+Primary NAICS: Wineries
+Candidate Score: 5.25
+
+Rank 12
+Name: Geyer
+Website: None
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 5.25
+
+Rank 13
+Name: Dechelette Estate
+Website: None
+Primary NAICS: Wineries
+Candidate Score: 5.25
+
+Rank 14
+Name: Valbur
+Website: vt-i.eu
+Primary NAICS: Industrial Supplies Merchant Wholesalers
+Candidate Score: 4.5
+
+Rank 15
+Name: US Foods
+Website: usfoods.com
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 3.75
+
+Rank 16
+Name: Hy-Vee
+Website: hy-vee.com
+Primary NAICS: Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+Candidate Score: 3.75
+
+Rank 17
+Name: DaVinci Gourmet
+Website: davincigourmet.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 18
+Name: DrinkAriZona
+Website: drinkarizona.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 19
+Name: Central de Envasados
+Website: centralenvasados.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 3.75
+
+Rank 20
+Name: Vetipak
+Website: None
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 3.75
+
+Rank 21
+Name: Paniers d'Eve
+Website: None
+Primary NAICS: Fruit and Vegetable Canning
+Candidate Score: 3.75
+
+Rank 22
+Name: Yumi
+Website: yumi.fr
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 23
+Name: MILHADE Vins & Spiritueux
+Website: None
+Primary NAICS: Wineries
+Candidate Score: 3.75
+
+Rank 24
+Name: La Limonaderie de Paris
+Website: lalimonaderiedeparis.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 25
+Name: Auvergnat Cola
+Website: auvergnatcola.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 26
+Name: Fermenting & Co
+Website: fermentingandco.fr
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 27
+Name: Conserverie Fourmi
+Website: conserverie-fourmi.fr
+Primary NAICS: Fruit and Vegetable Canning
+Candidate Score: 3.75
+
+Rank 28
+Name: GreenLeaf Mate
+Website: greenleaf-mate.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 29
+Name: Elixia
+Website: elixia.bio
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 30
+Name: Club-Mate
+Website: club-mate.fr
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 31
+Name: Riviera Kombucha
+Website: rivierakombucha.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.75
+
+Rank 32
+Name: Prutul
+Website: prutul.ro
+Primary NAICS: Fats and Oils Refining and Blending
+Candidate Score: 2.25
+
+Rank 33
+Name: SkyHarvest
+Website: skyharvest.eu
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 2.25
+
+Rank 34
+Name: New Payment Innovation
+Website: npi.ie
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 2.25
+
+Rank 35
+Name: Phin
+Website: phintech.de
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 2.25
+
+Rank 36
+Name: Rantum Capital
+Website: rantumcapital.de
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 2.25
+
+Rank 37
+Name: Coles
+Website: coles.com.au
+Primary NAICS: Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+Candidate Score: 2.25
+
+Rank 38
+Name: Nespresso
+Website: nespresso.com
+Primary NAICS: Coffee and Tea Manufacturing
+Candidate Score: 2.25
+
+Rank 39
+Name: Produit en Bretagne
+Website: produitenbretagne.bzh
+Primary NAICS: Civic and Social Organizations
+Candidate Score: 2.25
+
+Rank 40
+Name: PEZ Candy
+Website: pez.com
+Primary NAICS: Nonchocolate Confectionery Manufacturing
+Candidate Score: 2.25
+
+Rank 41
+Name: Aromas Coffee Roasters
+Website: aromas.com.au
+Primary NAICS: Coffee and Tea Manufacturing
+Candidate Score: 2.25
+
+Rank 42
+Name: visusta
+Website: visusta.ch
+Primary NAICS: Environmental Consulting Services
+Candidate Score: 2.25
+
+Rank 43
+Name: Forest Foods
+Website: forestfoods.ca
+Primary NAICS: Administrative Management and General Management Consulting Services
+Candidate Score: 2.25
+
+Rank 44
+Name: OLYMPIAN OPTIMIZATIONS
+Website: olympianopt.com
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 45
+Name: INOU
+Website: inou.fr
+Primary NAICS: Fruit and Vegetable Canning
+Candidate Score: 2.25
+
+Rank 46
+Name: Acino
+Website: acino.swiss
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 47
+Name: TRB Chemedica
+Website: trbchemedica.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 48
+Name: Brock Group
+Website: brockgroup.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 0.75
+
+Rank 49
+Name: RAW Rolling Papers
+Website: rawthentic.com
+Primary NAICS: All Other Converted Paper Product Manufacturing
+Candidate Score: 0.75
+
+Rank 50
+Name: Stallergenes Greer
+Website: stallergenesgreer.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 0.75
+
+Rank 51
+Name: IBSA
+Website: ibsagroup.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 0.75

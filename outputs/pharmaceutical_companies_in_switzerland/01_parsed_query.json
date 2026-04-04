@@ -1,0 +1,24 @@
+{
+  "raw_query": "Pharmaceutical companies in Switzerland",
+  "normalized_query": "pharmaceutical companies in switzerland",
+  "query_type": "mixed",
+  "country_codes": [
+    "ch"
+  ],
+  "region_terms": [],
+  "industry_terms": [
+    "pharmaceutical"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [],
+  "vague_terms": [],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

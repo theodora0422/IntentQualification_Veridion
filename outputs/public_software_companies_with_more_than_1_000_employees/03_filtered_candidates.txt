@@ -1,0 +1,195 @@
+Rank 1
+Name: Tata Consultancy Services
+Website: tcs.com
+Country: in
+Primary NAICS: Computer Systems Design Services
+Employee Count: 607979.0
+Revenue: 5009783346.0
+Year Founded: 1968.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 2
+Name: Concentrix
+Website: concentrix.com
+Country: us
+Primary NAICS: Computer Systems Design Services
+Employee Count: 440000.0
+Revenue: 146777605645.0
+Year Founded: 2000.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 3
+Name: Capgemini
+Website: capgemini.com
+Country: ca
+Primary NAICS: Computer Systems Design Services
+Employee Count: 341100.0
+Revenue: 53148270656.0
+Year Founded: 1967.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 4
+Name: Telefónica Venture Builder
+Website: telefonica.com
+Country: es
+Primary NAICS: Computer Systems Design Services
+Employee Count: 100870.0
+Revenue: 16873072935.0
+Year Founded: None
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 5
+Name: EPAM
+Website: epam.com
+Country: us
+Primary NAICS: Custom Computer Programming Services
+Employee Count: 62050.0
+Revenue: 13373358770.0
+Year Founded: 1993.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 6
+Name: Leidos
+Website: leidos.com
+Country: us
+Primary NAICS: Computer Systems Design Services
+Employee Count: 48000.0
+Revenue: 27977712699.0
+Year Founded: 1969.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 7
+Name: Booz Allen
+Website: boozallen.com
+Country: us
+Primary NAICS: Computer Systems Design Services
+Employee Count: 34200.0
+Revenue: 6739043686.0
+Year Founded: 1914.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 8
+Name: Globant
+Website: globant.com
+Country: lu
+Primary NAICS: Computer Systems Design Services
+Employee Count: 29150.0
+Revenue: 1178707576.0
+Year Founded: 2003.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 9
+Name: ASGN
+Website: asgn.com
+Country: us
+Primary NAICS: Computer Systems Design Services
+Employee Count: 21000.0
+Revenue: 5917532636.0
+Year Founded: 1985.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 10
+Name: CACI
+Website: caci.com
+Country: us
+Primary NAICS: Computer Systems Design Services
+Employee Count: 20000.0
+Revenue: 5635745368.0
+Year Founded: 1962.0
+Is Public: True
+Candidate Score: 4.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 11
+Name: Genpact
+Website: genpact.com
+Country: us
+Primary NAICS: Computer Systems Design Services
+Employee Count: 125000.0
+Revenue: 47195522844.0
+Year Founded: 1997.0
+Is Public: True
+Candidate Score: 2.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 12
+Name: Fujitsu
+Website: fujitsu.com
+Country: jp
+Primary NAICS: Computer Systems Design Services
+Employee Count: 124000.0
+Revenue: 56668130586.0
+Year Founded: 1935.0
+Is Public: True
+Candidate Score: 2.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 13
+Name: CGI
+Website: cgi.com
+Country: ca
+Primary NAICS: Computer Systems Design Services
+Employee Count: 95000.0
+Revenue: 19128497746.0
+Year Founded: 1976.0
+Is Public: True
+Candidate Score: 2.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 14
+Name: Tietoevry
+Website: tietoevry.com
+Country: fi
+Primary NAICS: Computer Systems Design Services
+Employee Count: 23632.0
+Revenue: 4334057488.0
+Year Founded: 1968.0
+Is Public: True
+Candidate Score: 2.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'public/private match', 'employee_count satisfies minimum', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']

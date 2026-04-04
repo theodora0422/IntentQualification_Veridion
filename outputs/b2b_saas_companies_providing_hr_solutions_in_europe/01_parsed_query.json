@@ -1,0 +1,25 @@
+{
+  "raw_query": "B2B SaaS companies providing HR solutions in Europe",
+  "normalized_query": "b2b saas companies providing hr solutions in europe",
+  "query_type": "mixed",
+  "country_codes": [],
+  "region_terms": [
+    "europe"
+  ],
+  "industry_terms": [],
+  "business_model_terms": [
+    "b2b",
+    "saas"
+  ],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [],
+  "vague_terms": [],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

@@ -1,0 +1,461 @@
+Rank 1
+Name: Novartis
+Website: novartis.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 75883.0
+Revenue: 116048058215.0
+Year Founded: 1996.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 2
+Name: Lonza
+Website: lonza.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 18000.0
+Revenue: 13543505187.0
+Year Founded: 1897.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 3
+Name: Nestlé Health Science
+Website: nestlehealthscience.com
+Country: ch
+Primary NAICS: Medicinal and Botanical Manufacturing
+Employee Count: 11000.0
+Revenue: 16822327008.0
+Year Founded: 2011.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 4
+Name: Ferring
+Website: ferring.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 7000.0
+Revenue: 10705117187.0
+Year Founded: 1950.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 5
+Name: Galderma
+Website: galderma.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 6500.0
+Revenue: 21730045319.0
+Year Founded: 1981.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 6
+Name: Sumitomo Pharma Switzerland
+Website: sumitomo-pharma.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 6250.0
+Revenue: 3530647340.0
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 7
+Name: Lonza Capsules & Health Ingredients
+Website: capsugel.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 3600.0
+Revenue: 4993128661.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 8
+Name: Siegfried
+Website: siegfried.ch
+Country: ch
+Primary NAICS: Medicinal and Botanical Manufacturing
+Employee Count: 3500.0
+Revenue: 2105055517.0
+Year Founded: 1873.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 9
+Name: PSI CRO
+Website: psi-cro.com
+Country: ch
+Primary NAICS: Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)
+Employee Count: 2603.0
+Revenue: 12383946.0
+Year Founded: 1995.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 10
+Name: Acino
+Website: acino.swiss
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 2473.0
+Revenue: 3781964972.0
+Year Founded: 2008.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 11
+Name: CordenPharma
+Website: cordenpharma.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 1789.0
+Revenue: 4664372489.0
+Year Founded: 2006.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 12
+Name: PolyPeptide
+Website: polypeptide.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 1300.0
+Revenue: 1988093192.0
+Year Founded: 1996.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 13
+Name: Idorsia
+Website: idorsia.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 1200.0
+Revenue: 1835162946.0
+Year Founded: 2017.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 14
+Name: IBSA
+Website: ibsagroup.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 1064.0
+Revenue: 1627177812.0
+Year Founded: 1945.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 15
+Name: Bachem
+Website: bachem.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 1057.0
+Revenue: 1035979502.0
+Year Founded: 1971.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 16
+Name: Alcon
+Website: aeriepharma.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 1000.0
+Revenue: 386892954.0
+Year Founded: 1950.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 17
+Name: CARBOGEN AMCIS
+Website: carbogen-amcis.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 719.0
+Revenue: 1099568465.0
+Year Founded: 1990.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 18
+Name: OM Pharma
+Website: ompharma.com
+Country: ch
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Employee Count: 560.0
+Revenue: 688186105.0
+Year Founded: 1937.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 19
+Name: MSD
+Website: msd.ch
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 552.0
+Revenue: 844174955.0
+Year Founded: 1963.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 20
+Name: AbelaPharm
+Website: abelapharm.ch
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 500.0
+Revenue: 21829920.0
+Year Founded: 2006.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 21
+Name: Debiopharm
+Website: debiopharm.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 420.0
+Revenue: 316015121.0
+Year Founded: 1979.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 22
+Name: Helsinn
+Website: helsinn.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 364.0
+Revenue: 556666094.0
+Year Founded: 1976.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 23
+Name: TRB Chemedica
+Website: trbchemedica.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 330.0
+Revenue: 504669810.0
+Year Founded: 1980.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 24
+Name: Tillotts Pharma
+Website: tillotts.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 310.0
+Revenue: 474083761.0
+Year Founded: 1986.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 25
+Name: KD Pharma Group
+Website: kdpharmagroup.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 290.0
+Revenue: 305860491.0
+Year Founded: 1988.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 26
+Name: A. Menarini
+Website: menarini.ch
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 276.0
+Revenue: 59272245.0
+Year Founded: 1996.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: pharmaceutical']
+
+Rank 27
+Name: Octapharma
+Website: octapharma.com
+Country: ch
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Employee Count: 11141.0
+Revenue: 10919439571.0
+Year Founded: 1983.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: pharmaceutical']
+
+Rank 28
+Name: Stallergenes Greer
+Website: stallergenesgreer.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 1129.0
+Revenue: 418120772.0
+Year Founded: 2015.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: pharmaceutical']
+
+Rank 29
+Name: Teoxane
+Website: teoxane.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 651.0
+Revenue: 995575898.0
+Year Founded: 2003.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: pharmaceutical']
+
+Rank 30
+Name: Drugs for Neglected Diseases initiative
+Website: dndi.org
+Country: ch
+Primary NAICS: Research and Development in Biotechnology (except Nanobiotechnology)
+Employee Count: 424.0
+Revenue: 120054373.0
+Year Founded: 2003.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: pharmaceutical']
+
+Rank 31
+Name: CRISPR Therapeutics
+Website: crisprtx.com
+Country: ch
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Employee Count: 393.0
+Revenue: 126211102.0
+Year Founded: 2013.0
+Is Public: True
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: pharmaceutical']
+
+Rank 32
+Name: Celonic
+Website: celonic.com
+Country: ch
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Employee Count: 329.0
+Revenue: 322457196.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: pharmaceutical']
+
+Rank 33
+Name: ADC Therapeutics
+Website: adctherapeutics.com
+Country: ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Employee Count: 310.0
+Revenue: 191162807.0
+Year Founded: 2011.0
+Is Public: True
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: pharmaceutical']

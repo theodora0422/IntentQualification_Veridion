@@ -1,0 +1,24 @@
+{
+  "raw_query": "Construction companies in the United States with revenue over $50 million",
+  "normalized_query": "construction companies in the united states with revenue over $50 million",
+  "query_type": "mixed",
+  "country_codes": [
+    "us"
+  ],
+  "region_terms": [],
+  "industry_terms": [
+    "construction"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [],
+  "vague_terms": [],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": 50000000.0,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

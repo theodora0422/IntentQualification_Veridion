@@ -1,0 +1,24 @@
+{
+  "raw_query": "Logistic companies in Romania",
+  "normalized_query": "logistic companies in romania",
+  "query_type": "mixed",
+  "country_codes": [
+    "ro"
+  ],
+  "region_terms": [],
+  "industry_terms": [
+    "logistics"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [],
+  "vague_terms": [],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

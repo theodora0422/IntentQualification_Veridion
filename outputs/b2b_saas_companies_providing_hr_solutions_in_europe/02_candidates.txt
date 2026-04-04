@@ -1,0 +1,599 @@
+Rank 1
+Name: Kapsoon
+Website: kapsoon.io
+Primary NAICS: Software Publishers
+Candidate Score: 2.25
+
+Rank 2
+Name: Asys
+Website: asys.fr
+Primary NAICS: Software Publishers
+Candidate Score: 2.25
+
+Rank 3
+Name: Personio
+Website: None
+Primary NAICS: Software Publishers
+Candidate Score: 2.25
+
+Rank 4
+Name: Foederis
+Website: foederis.ch
+Primary NAICS: Software Publishers
+Candidate Score: 2.25
+
+Rank 5
+Name: uMan Xpert
+Website: uman.pt
+Primary NAICS: Software Publishers
+Candidate Score: 2.25
+
+Rank 6
+Name: Jooma
+Website: jooma-paye.fr
+Primary NAICS: Software Publishers
+Candidate Score: 2.25
+
+Rank 7
+Name: AI Partnerships
+Website: aipartnershipscorp.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.25
+
+Rank 8
+Name: NOVRH
+Website: novrh.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 9
+Name: Aquarium
+Website: aquariumlearning.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 10
+Name: Enviroway Advisory
+Website: envirowayadvisory.com
+Primary NAICS: Other Scientific and Technical Consulting Services
+Candidate Score: 0.75
+
+Rank 11
+Name: Rompetrol
+Website: rompetrol.ro
+Primary NAICS: Petroleum Refineries
+Candidate Score: 0.0
+
+Rank 12
+Name: Unilever
+Website: unilever.ro
+Primary NAICS: Other Chemical and Allied Products Merchant Wholesalers
+Candidate Score: 0.0
+
+Rank 13
+Name: Rompetrol
+Website: rompetrol.com
+Primary NAICS: Petroleum Refineries
+Candidate Score: 0.0
+
+Rank 14
+Name: CBRE Romania
+Website: cbre.ro
+Primary NAICS: Offices of Real Estate Agents and Brokers
+Candidate Score: 0.0
+
+Rank 15
+Name: TIMAC AGRO
+Website: timacagro.com
+Primary NAICS: Nitrogenous Fertilizer Manufacturing
+Candidate Score: 0.0
+
+Rank 16
+Name: OMV
+Website: omv.ro
+Primary NAICS: Other Gasoline Stations
+Candidate Score: 0.0
+
+Rank 17
+Name: Compania Națională de Căi Ferate CFR
+Website: cfr.ro
+Primary NAICS: Support Activities for Rail Transportation
+Candidate Score: 0.0
+
+Rank 18
+Name: Mercedes-Benz Trucks & Buses Romania
+Website: mercedes-benz-trucks-mbb.ro
+Primary NAICS: New Car Dealers
+Candidate Score: 0.0
+
+Rank 19
+Name: Dacia
+Website: dacia.ro
+Primary NAICS: Automobile and Light Duty Motor Vehicle Manufacturing
+Candidate Score: 0.0
+
+Rank 20
+Name: Fildas Trading
+Website: fildas.ro
+Primary NAICS: Drugs and Druggists' Sundries Merchant Wholesalers
+Candidate Score: 0.0
+
+Rank 21
+Name: Portul Constanta
+Website: portofconstantza.com
+Primary NAICS: Port and Harbor Operations
+Candidate Score: 0.0
+
+Rank 22
+Name: Bunge Romania
+Website: bunge-romania.ro
+Primary NAICS: Soybean and Other Oilseed Processing
+Candidate Score: 0.0
+
+Rank 23
+Name: Romgaz
+Website: romgaz.ro
+Primary NAICS: Natural Gas Extraction
+Candidate Score: 0.0
+
+Rank 24
+Name: METRO România
+Website: metro.ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 0.0
+
+Rank 25
+Name: Transgaz
+Website: transgaz.ro
+Primary NAICS: Natural Gas Distribution
+Candidate Score: 0.0
+
+Rank 26
+Name: Poșta Română
+Website: posta-romana.ro
+Primary NAICS: Postal Service
+Candidate Score: 0.0
+
+Rank 27
+Name: OSCAR
+Website: oscars.ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 0.0
+
+Rank 28
+Name: Prutul
+Website: prutul.ro
+Primary NAICS: Fats and Oils Refining and Blending
+Candidate Score: 0.0
+
+Rank 29
+Name: Valtec
+Website: valtec.nl
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 0.0
+
+Rank 30
+Name: Valbur
+Website: vt-i.eu
+Primary NAICS: Industrial Supplies Merchant Wholesalers
+Candidate Score: 0.0
+
+Rank 31
+Name: Brasov Industrial Portfolio
+Website: brasov-industrialportfolio.ro
+Primary NAICS: General Warehousing and Storage
+Candidate Score: 0.0
+
+Rank 32
+Name: STILL
+Website: still.ro
+Primary NAICS: Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing
+Candidate Score: 0.0
+
+Rank 33
+Name: AQUA CENTER
+Website: aquacenter.ro
+Primary NAICS: Plastics Pipe and Pipe Fitting Manufacturing
+Candidate Score: 0.0
+
+Rank 34
+Name: European Drinks
+Website: europeandrinks.ro
+Primary NAICS: Bottled Water Manufacturing
+Candidate Score: 0.0
+
+Rank 35
+Name: Colaska
+Website: colaska.com
+Primary NAICS: Highway, Street, and Bridge Construction
+Candidate Score: 0.0
+
+Rank 36
+Name: BrandSafway
+Website: brandsafway.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 0.0
+
+Rank 37
+Name: Fluor
+Website: fluor.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 0.0
+
+Rank 38
+Name: Kiewit
+Website: kiewit.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 0.0
+
+Rank 39
+Name: Lemartec
+Website: lemartec.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.0
+
+Rank 40
+Name: Clayton Homes
+Website: claytonhomes.com
+Primary NAICS: New Housing For-Sale Builders
+Candidate Score: 0.0
+
+Rank 41
+Name: Brock Group
+Website: brockgroup.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 0.0
+
+Rank 42
+Name: Quanta Services
+Website: quantaservices.com
+Primary NAICS: Power and Communication Line and Related Structures Construction
+Candidate Score: 0.0
+
+Rank 43
+Name: BNBuilders
+Website: bnbuilders.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.0
+
+Rank 44
+Name: EMCOR Group
+Website: emcorgroup.com
+Primary NAICS: Electrical Contractors and Other Wiring Installation Contractors
+Candidate Score: 0.0
+
+Rank 45
+Name: Skanska
+Website: skanska.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.0
+
+Rank 46
+Name: Versar
+Website: jmwaller.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 0.0
+
+Rank 47
+Name: Bechtel
+Website: bechtel.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 0.0
+
+Rank 48
+Name: Halmar International
+Website: halmarinternational.com
+Primary NAICS: Highway, Street, and Bridge Construction
+Candidate Score: 0.0
+
+Rank 49
+Name: Focus Civil Construction Group
+Website: focuscivil.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.0
+
+Rank 50
+Name: Tutor Perini
+Website: tutorperini.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.0
+
+Rank 51
+Name: Versar
+Website: geo-marine.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 0.0
+
+Rank 52
+Name: PulteGroup
+Website: pultegroup.com
+Primary NAICS: New Housing For-Sale Builders
+Candidate Score: 0.0
+
+Rank 53
+Name: Trusted Solutions Group
+Website: tsg28.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.0
+
+Rank 54
+Name: DPR Construction
+Website: dpr.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.0
+
+Rank 55
+Name: Mangal Money Transfer
+Website: mangalmoneytransfer.co.uk
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 56
+Name: SkyHarvest
+Website: skyharvest.eu
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.0
+
+Rank 57
+Name: Aircash
+Website: aircash.eu
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 58
+Name: EasyKassa
+Website: easykassa.at
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 59
+Name: City Exchange
+Website: sarafishahr.co.uk
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 60
+Name: FGC Money Transfer
+Website: fgcexchange.co.uk
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 61
+Name: Brink's Solutions Nederland
+Website: brinks.nl
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 62
+Name: Salauddin Global Trading
+Website: salauddinglobal.co.uk
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 63
+Name: ECrowd Invest
+Website: None
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.0
+
+Rank 64
+Name: CTC FUND
+Website: ctcfundlimited.com
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.0
+
+Rank 65
+Name: New Payment Innovation
+Website: npi.ie
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 66
+Name: Phin
+Website: phintech.de
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 67
+Name: Credito21
+Website: credito21.es
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 68
+Name: Folio
+Website: folio.no
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 69
+Name: Ariv Pay
+Website: arivpay.com
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 70
+Name: Rantum Capital
+Website: rantumcapital.de
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.0
+
+Rank 71
+Name: Agility FX
+Website: agility-fx.co.uk
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 72
+Name: Euro-Rijn Financial Services
+Website: erfinancial.services
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.0
+
+Rank 73
+Name: European Pay
+Website: european-pay.fr
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 74
+Name: VIP Exchange
+Website: vipexchange.uk
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.0
+
+Rank 75
+Name: Bizneo HR
+Website: bizneo.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 76
+Name: Sincron HR
+Website: sincronhr.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 77
+Name: BCS HR Software
+Website: bcs.nl
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 78
+Name: BambooHR
+Website: bamboohr.eu
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 79
+Name: Pandapé
+Website: pandape.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 80
+Name: Ciphr
+Website: ciphr.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 81
+Name: quarksUp
+Website: quarksup.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 82
+Name: Novative
+Website: novative.com
+Primary NAICS: Human Resources Consulting Services
+Candidate Score: 0.0
+
+Rank 83
+Name: ASCIA
+Website: ascia.pt
+Primary NAICS: Custom Computer Programming Services
+Candidate Score: 0.0
+
+Rank 84
+Name: Global HR
+Website: globalhruk.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 85
+Name: Toba HR Solutions
+Website: tobahrsolutions.be
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 86
+Name: Factorial
+Website: factorialhr.de
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 87
+Name: Visma YouServe
+Website: youserve.nl
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 88
+Name: HR Campus
+Website: hr-campus.ch
+Primary NAICS: Human Resources Consulting Services
+Candidate Score: 0.0
+
+Rank 89
+Name: Sesame HR
+Website: sesamehr.pt
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 90
+Name: Virtualia
+Website: virtualia.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 91
+Name: Kammi
+Website: kammi.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 92
+Name: ICON HR
+Website: iconhrsoftware.azurewebsites.net
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 93
+Name: Cantoriel
+Website: cantoriel.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 94
+Name: Moorepay
+Website: moorepay.co.uk
+Primary NAICS: Payroll Services
+Candidate Score: 0.0
+
+Rank 95
+Name: Buzz HR
+Website: buzzhr.co.uk
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 96
+Name: Crocodile
+Website: crocodile.hr
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 97
+Name: Sesame HR
+Website: sesamehr.es
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 98
+Name: Sesame HR
+Website: sesamehr.com.br
+Primary NAICS: Software Publishers
+Candidate Score: 0.0
+
+Rank 99
+Name: Paychex
+Website: paychex.de
+Primary NAICS: Payroll Services
+Candidate Score: 0.0
+
+Rank 100
+Name: Sun RH
+Website: sun-e.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.0

@@ -1,0 +1,27 @@
+{
+  "raw_query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+  "normalized_query": "companies that manufacture or supply critical components for electric vehicle battery production",
+  "query_type": "strong-reasoning",
+  "country_codes": [],
+  "region_terms": [],
+  "industry_terms": [
+    "battery"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [
+    "supply",
+    "components for"
+  ],
+  "vague_terms": [
+    "critical"
+  ],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

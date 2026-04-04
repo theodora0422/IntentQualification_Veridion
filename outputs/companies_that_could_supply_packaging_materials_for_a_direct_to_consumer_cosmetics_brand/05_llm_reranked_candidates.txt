@@ -1,0 +1,41 @@
+Rank 1
+Name: Standard Mold
+Website: standardmold.co.kr
+Country: kr
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 8.75
+Final Score Before LLM: 8.25
+Final Score After LLM: 8.25
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 8.75', 'matched required term: packaging', 'missing required term: packaging materials', 'matched supportive term:cosmetics', 'matched packaging related signals: 7']
+
+Rank 2
+Name: Sunshine Packaging
+Website: hzshengsha.com
+Country: cn
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 9.5
+Final Score Before LLM: 8.0
+Final Score After LLM: 8.0
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 9.5', 'matched required term: packaging', 'missing required term: packaging materials', 'matched supportive term:cosmetics', 'matched packaging related signals: 6']
+
+Rank 3
+Name: YONWOO
+Website: yonwookorea.com
+Country: kr
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 10.25
+Final Score Before LLM: 7.75
+Final Score After LLM: 7.75
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 10.25', 'matched required term: packaging', 'missing required term: packaging materials', 'matched supportive term:cosmetics', 'matched packaging related signals: 5']

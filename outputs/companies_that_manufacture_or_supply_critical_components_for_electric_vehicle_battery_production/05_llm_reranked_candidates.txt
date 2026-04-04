@@ -1,0 +1,41 @@
+Rank 1
+Name: Naust Marine
+Website: naust.is
+Country: is
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 4.5
+Final Score Before LLM: 8.5
+Final Score After LLM: 8.5
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 4.5', 'matched required term: battery']
+
+Rank 2
+Name: Rongbai Lithium Battery
+Website: ronbaymat.com
+Country: cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 4.5
+Final Score Before LLM: 8.5
+Final Score After LLM: 8.5
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 4.5', 'matched required term: battery']
+
+Rank 3
+Name: Altmin
+Website: altmin.in
+Country: in
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 4.5
+Final Score Before LLM: 8.5
+Final Score After LLM: 8.5
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 4.5', 'matched required term: battery']

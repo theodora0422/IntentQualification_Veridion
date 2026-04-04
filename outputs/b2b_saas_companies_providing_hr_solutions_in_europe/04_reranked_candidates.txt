@@ -1,0 +1,1399 @@
+Rank 1
+Name: Kapsoon
+Website: kapsoon.io
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 4.0
+Revenue: 808879.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 5.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched supportive term:saas', 'matched HR related signals: 3']
+
+Rank 2
+Name: Personio
+Website: None
+Country: de
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: None
+Year Founded: 2015.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 5.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched supportive term:saas', 'matched HR related signals: 3']
+
+Rank 3
+Name: uMan Xpert
+Website: uman.pt
+Country: pt
+Primary NAICS: Software Publishers
+Employee Count: 29.0
+Revenue: 3161242.0
+Year Founded: 2007.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 5.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched supportive term:saas', 'matched HR related signals: 3']
+
+Rank 4
+Name: Jooma
+Website: jooma-paye.fr
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 4.0
+Revenue: 264591.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 5.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched supportive term:saas', 'matched HR related signals: 3']
+
+Rank 5
+Name: Asys
+Website: asys.fr
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 200.0
+Revenue: 41570814.0
+Year Founded: 1987.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched supportive term:saas', 'matched HR related signals: 2']
+
+Rank 6
+Name: Foederis
+Website: foederis.ch
+Country: ch
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: 15000000.0
+Year Founded: 1998.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched supportive term:saas', 'matched HR related signals: 2']
+
+Rank 7
+Name: AI Partnerships
+Website: aipartnershipscorp.com
+Country: ca
+Primary NAICS: Computer Systems Design Services
+Employee Count: 11.0
+Revenue: 1652391.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 3.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched supportive term:saas', 'matched HR related signals: 1']
+
+Rank 8
+Name: NOVRH
+Website: novrh.com
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 63.0
+Revenue: 13094806.0
+Year Founded: 1986.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 3.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched supportive term:saas', 'matched HR related signals: 2']
+
+Rank 9
+Name: Bizneo HR
+Website: bizneo.com
+Country: es
+Primary NAICS: Software Publishers
+Employee Count: 174.0
+Revenue: 24680239.0
+Year Founded: 2013.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 10
+Name: Sincron HR
+Website: sincronhr.com
+Country: ro
+Primary NAICS: Software Publishers
+Employee Count: 15.0
+Revenue: 1014952.0
+Year Founded: 2007.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 11
+Name: BCS HR Software
+Website: bcs.nl
+Country: nl
+Primary NAICS: Software Publishers
+Employee Count: 5.0
+Revenue: 1313795.0
+Year Founded: 1978.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 12
+Name: BambooHR
+Website: bamboohr.eu
+Country: ie
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: 63572376.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 13
+Name: Pandapé
+Website: pandape.com
+Country: gb
+Primary NAICS: Software Publishers
+Employee Count: 171.0
+Revenue: 9154639.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 14
+Name: Ciphr
+Website: ciphr.com
+Country: gb
+Primary NAICS: Software Publishers
+Employee Count: 230.0
+Revenue: 46103753.0
+Year Founded: 1982.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 15
+Name: quarksUp
+Website: quarksup.com
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 45.0
+Revenue: 11270791.0
+Year Founded: 2008.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 16
+Name: Novative
+Website: novative.com
+Country: ch
+Primary NAICS: Human Resources Consulting Services
+Employee Count: 63.0
+Revenue: 15712530.0
+Year Founded: 1993.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 17
+Name: ASCIA
+Website: ascia.pt
+Country: pt
+Primary NAICS: Custom Computer Programming Services
+Employee Count: 5.0
+Revenue: 319327.0
+Year Founded: 2016.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 18
+Name: Global HR
+Website: globalhruk.com
+Country: gb
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: 16466598.0
+Year Founded: 2016.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 19
+Name: Toba HR Solutions
+Website: tobahrsolutions.be
+Country: be
+Primary NAICS: Software Publishers
+Employee Count: 47.0
+Revenue: 11422499.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 20
+Name: Visma YouServe
+Website: youserve.nl
+Country: nl
+Primary NAICS: Software Publishers
+Employee Count: 281.0
+Revenue: 42795221.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 21
+Name: HR Campus
+Website: hr-campus.ch
+Country: ch
+Primary NAICS: Human Resources Consulting Services
+Employee Count: 271.0
+Revenue: 67588819.0
+Year Founded: 1998.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 22
+Name: Virtualia
+Website: virtualia.fr
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: 9392325.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 23
+Name: Kammi
+Website: kammi.fr
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 10.0
+Revenue: 3775647.0
+Year Founded: 2007.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 24
+Name: Cantoriel
+Website: cantoriel.fr
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 30.0
+Revenue: 3220369.0
+Year Founded: 2005.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 25
+Name: Moorepay
+Website: moorepay.co.uk
+Country: gb
+Primary NAICS: Payroll Services
+Employee Count: 385.0
+Revenue: 27650040.0
+Year Founded: 1966.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 26
+Name: Crocodile
+Website: crocodile.hr
+Country: gb
+Primary NAICS: Software Publishers
+Employee Count: 41.0
+Revenue: 8774954.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 27
+Name: Paychex
+Website: paychex.de
+Country: de
+Primary NAICS: Payroll Services
+Employee Count: 70.0
+Revenue: 5398648.0
+Year Founded: 2003.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 28
+Name: Sun RH
+Website: sun-e.fr
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 3.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 3']
+
+Rank 29
+Name: Factorial
+Website: factorialhr.de
+Country: es
+Primary NAICS: Software Publishers
+Employee Count: 1.0
+Revenue: 53626.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 2.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 2']
+
+Rank 30
+Name: Sesame HR
+Website: sesamehr.pt
+Country: es
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: 10638034.0
+Year Founded: 2015.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 2.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 2']
+
+Rank 31
+Name: ICON HR
+Website: iconhrsoftware.azurewebsites.net
+Country: gb
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: 16466598.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 2.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 2']
+
+Rank 32
+Name: Buzz HR
+Website: buzzhr.co.uk
+Country: gb
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 2.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 2']
+
+Rank 33
+Name: Sesame HR
+Website: sesamehr.es
+Country: es
+Primary NAICS: Software Publishers
+Employee Count: 373.0
+Revenue: 52906490.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 2.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 2']
+
+Rank 34
+Name: Sesame HR
+Website: sesamehr.com.br
+Country: es
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: 35460114.0
+Year Founded: 2015.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 2.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 2']
+
+Rank 35
+Name: Aquarium
+Website: aquariumlearning.com
+Country: us
+Primary NAICS: Software Publishers
+Employee Count: 13.0
+Revenue: 3208366.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 1.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched supportive term:saas']
+
+Rank 36
+Name: Enviroway Advisory
+Website: envirowayadvisory.com
+Country: ar
+Primary NAICS: Other Scientific and Technical Consulting Services
+Employee Count: 5.0
+Revenue: 1100196.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 1.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched supportive term:saas']
+
+Rank 37
+Name: Rompetrol
+Website: rompetrol.com
+Country: ro
+Primary NAICS: Petroleum Refineries
+Employee Count: 7000.0
+Revenue: 12664964365.0
+Year Founded: 1974.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 38
+Name: Mercedes-Benz Trucks & Buses Romania
+Website: mercedes-benz-trucks-mbb.ro
+Country: ro
+Primary NAICS: New Car Dealers
+Employee Count: None
+Revenue: 4801923600.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 39
+Name: Fildas Trading
+Website: fildas.ro
+Country: ro
+Primary NAICS: Drugs and Druggists' Sundries Merchant Wholesalers
+Employee Count: 838.0
+Revenue: 3492536857.0
+Year Founded: 1991.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 40
+Name: Kiewit
+Website: kiewit.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 31100.0
+Revenue: 16310884187.0
+Year Founded: 1884.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 41
+Name: Clayton Homes
+Website: claytonhomes.com
+Country: us
+Primary NAICS: New Housing For-Sale Builders
+Employee Count: 4500.0
+Revenue: 14947799968.0
+Year Founded: 1956.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 42
+Name: Bechtel
+Website: bechtel.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 44000.0
+Revenue: 10796374639.0
+Year Founded: 1898.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 43
+Name: Versar
+Website: geo-marine.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 40.0
+Revenue: 10329342589.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 44
+Name: SkyHarvest
+Website: skyharvest.eu
+Country: at
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employee Count: 2.0
+Revenue: None
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 45
+Name: FGC Money Transfer
+Website: fgcexchange.co.uk
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: None
+Revenue: 15000000.0
+Year Founded: 2016.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 46
+Name: Folio
+Website: folio.no
+Country: no
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 24.0
+Revenue: 10505233.0
+Year Founded: 2018.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 1.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0', 'matched HR related signals: 1']
+
+Rank 47
+Name: Rompetrol
+Website: rompetrol.ro
+Country: ro
+Primary NAICS: Petroleum Refineries
+Employee Count: None
+Revenue: 13498241905.0
+Year Founded: 1979.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 48
+Name: Unilever
+Website: unilever.ro
+Country: ro
+Primary NAICS: Other Chemical and Allied Products Merchant Wholesalers
+Employee Count: None
+Revenue: 12802072204.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 49
+Name: CBRE Romania
+Website: cbre.ro
+Country: ro
+Primary NAICS: Offices of Real Estate Agents and Brokers
+Employee Count: 92.0
+Revenue: 9568739216.0
+Year Founded: 2008.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 50
+Name: TIMAC AGRO
+Website: timacagro.com
+Country: ro
+Primary NAICS: Nitrogenous Fertilizer Manufacturing
+Employee Count: 65.0
+Revenue: 8907855312.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 51
+Name: OMV
+Website: omv.ro
+Country: ro
+Primary NAICS: Other Gasoline Stations
+Employee Count: None
+Revenue: 6542287157.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 52
+Name: Compania Națională de Căi Ferate CFR
+Website: cfr.ro
+Country: ro
+Primary NAICS: Support Activities for Rail Transportation
+Employee Count: 54000.0
+Revenue: 5290917696.0
+Year Founded: 1880.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 53
+Name: Dacia
+Website: dacia.ro
+Country: ro
+Primary NAICS: Automobile and Light Duty Motor Vehicle Manufacturing
+Employee Count: 11026.0
+Revenue: 4495347345.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 54
+Name: Portul Constanta
+Website: portofconstantza.com
+Country: ro
+Primary NAICS: Port and Harbor Operations
+Employee Count: 6000.0
+Revenue: 1727732794.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 55
+Name: Bunge Romania
+Website: bunge-romania.ro
+Country: ro
+Primary NAICS: Soybean and Other Oilseed Processing
+Employee Count: None
+Revenue: 1506056258.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 56
+Name: Romgaz
+Website: romgaz.ro
+Country: ro
+Primary NAICS: Natural Gas Extraction
+Employee Count: 5287.0
+Revenue: 1383562888.0
+Year Founded: 1909.0
+Is Public: True
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 57
+Name: METRO România
+Website: metro.ro
+Country: ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Employee Count: 810.0
+Revenue: 1300592908.0
+Year Founded: 1996.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 58
+Name: Transgaz
+Website: transgaz.ro
+Country: ro
+Primary NAICS: Natural Gas Distribution
+Employee Count: 4628.0
+Revenue: 1211108198.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 59
+Name: Poșta Română
+Website: posta-romana.ro
+Country: ro
+Primary NAICS: Postal Service
+Employee Count: 25000.0
+Revenue: 1161768432.0
+Year Founded: 1862.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 60
+Name: OSCAR
+Website: oscars.ro
+Country: ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Employee Count: 488.0
+Revenue: 1097857008.0
+Year Founded: 2001.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 61
+Name: Prutul
+Website: prutul.ro
+Country: ro
+Primary NAICS: Fats and Oils Refining and Blending
+Employee Count: 162.0
+Revenue: 1054239381.0
+Year Founded: 1893.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 62
+Name: Valtec
+Website: valtec.nl
+Country: ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Employee Count: None
+Revenue: 1035538334.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 63
+Name: Valbur
+Website: vt-i.eu
+Country: ro
+Primary NAICS: Industrial Supplies Merchant Wholesalers
+Employee Count: None
+Revenue: 1021169365.0
+Year Founded: 2008.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 64
+Name: Brasov Industrial Portfolio
+Website: brasov-industrialportfolio.ro
+Country: ro
+Primary NAICS: General Warehousing and Storage
+Employee Count: None
+Revenue: 1000000000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 65
+Name: STILL
+Website: still.ro
+Country: ro
+Primary NAICS: Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing
+Employee Count: None
+Revenue: 840574450.0
+Year Founded: 1919.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 66
+Name: AQUA CENTER
+Website: aquacenter.ro
+Country: ro
+Primary NAICS: Plastics Pipe and Pipe Fitting Manufacturing
+Employee Count: None
+Revenue: 762500000.0
+Year Founded: 2004.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 67
+Name: European Drinks
+Website: europeandrinks.ro
+Country: ro
+Primary NAICS: Bottled Water Manufacturing
+Employee Count: 4500.0
+Revenue: 727509607.0
+Year Founded: 1993.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 68
+Name: Colaska
+Website: colaska.com
+Country: us
+Primary NAICS: Highway, Street, and Bridge Construction
+Employee Count: 78.0
+Revenue: 38803077507.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 69
+Name: BrandSafway
+Website: brandsafway.com
+Country: us
+Primary NAICS: All Other Specialty Trade Contractors
+Employee Count: None
+Revenue: 19739204162.0
+Year Founded: 2017.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 70
+Name: Fluor
+Website: fluor.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 26866.0
+Revenue: 18280370593.0
+Year Founded: 1912.0
+Is Public: True
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 71
+Name: Lemartec
+Website: lemartec.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 170.0
+Revenue: 15779739398.0
+Year Founded: 1979.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 72
+Name: Brock Group
+Website: brockgroup.com
+Country: us
+Primary NAICS: All Other Specialty Trade Contractors
+Employee Count: 11000.0
+Revenue: 13517299684.0
+Year Founded: 1940.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 73
+Name: Quanta Services
+Website: quantaservices.com
+Country: us
+Primary NAICS: Power and Communication Line and Related Structures Construction
+Employee Count: 40000.0
+Revenue: 13502659521.0
+Year Founded: 1997.0
+Is Public: True
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 74
+Name: BNBuilders
+Website: bnbuilders.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 750.0
+Revenue: 11795677155.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 75
+Name: EMCOR Group
+Website: emcorgroup.com
+Country: us
+Primary NAICS: Electrical Contractors and Other Wiring Installation Contractors
+Employee Count: 40400.0
+Revenue: 11695838612.0
+Year Founded: 1994.0
+Is Public: True
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 76
+Name: Skanska
+Website: skanska.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 33585.0
+Revenue: 11332448300.0
+Year Founded: 1887.0
+Is Public: True
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 77
+Name: Versar
+Website: jmwaller.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: None
+Revenue: 10811821464.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 78
+Name: Halmar International
+Website: halmarinternational.com
+Country: us
+Primary NAICS: Highway, Street, and Bridge Construction
+Employee Count: 250.0
+Revenue: 10776195538.0
+Year Founded: 1962.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 79
+Name: Focus Civil Construction Group
+Website: focuscivil.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: None
+Revenue: 10705547711.0
+Year Founded: 1908.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 80
+Name: Tutor Perini
+Website: tutorperini.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 10061.0
+Revenue: 10653626941.0
+Year Founded: 1949.0
+Is Public: True
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 81
+Name: PulteGroup
+Website: pultegroup.com
+Country: us
+Primary NAICS: New Housing For-Sale Builders
+Employee Count: 7523.0
+Revenue: 10109819333.0
+Year Founded: 1950.0
+Is Public: True
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 82
+Name: Trusted Solutions Group
+Website: tsg28.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 2.0
+Revenue: 9902488503.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 83
+Name: DPR Construction
+Website: dpr.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 9000.0
+Revenue: 9530130452.0
+Year Founded: 1990.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 84
+Name: Mangal Money Transfer
+Website: mangalmoneytransfer.co.uk
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 4.0
+Revenue: 385783.0
+Year Founded: 2013.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 85
+Name: Aircash
+Website: aircash.eu
+Country: hr
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 148.0
+Revenue: 5679645.0
+Year Founded: 2015.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 86
+Name: EasyKassa
+Website: easykassa.at
+Country: at
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 1.0
+Revenue: 317781.0
+Year Founded: 2016.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 87
+Name: City Exchange
+Website: sarafishahr.co.uk
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: None
+Revenue: 7434965.0
+Year Founded: 2012.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 88
+Name: Brink's Solutions Nederland
+Website: brinks.nl
+Country: nl
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 327.0
+Revenue: 111012570.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 89
+Name: Salauddin Global Trading
+Website: salauddinglobal.co.uk
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: None
+Revenue: 1360243.0
+Year Founded: 2018.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 90
+Name: ECrowd Invest
+Website: None
+Country: es
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employee Count: None
+Revenue: None
+Year Founded: 2014.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 91
+Name: CTC FUND
+Website: ctcfundlimited.com
+Country: gb
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employee Count: None
+Revenue: None
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 92
+Name: New Payment Innovation
+Website: npi.ie
+Country: ie
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 51.0
+Revenue: 32327806.0
+Year Founded: 2012.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 93
+Name: Phin
+Website: phintech.de
+Country: de
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: None
+Revenue: 6105946.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 94
+Name: Credito21
+Website: credito21.es
+Country: es
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: None
+Revenue: 9684255.0
+Year Founded: 2012.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 95
+Name: Ariv Pay
+Website: arivpay.com
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 5.0
+Revenue: 1319900.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 96
+Name: Rantum Capital
+Website: rantumcapital.de
+Country: de
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employee Count: 19.0
+Revenue: 4688320.0
+Year Founded: 2013.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 97
+Name: Agility FX
+Website: agility-fx.co.uk
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 26.0
+Revenue: 2354298.0
+Year Founded: 2013.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 98
+Name: Euro-Rijn Financial Services
+Website: erfinancial.services
+Country: nl
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employee Count: None
+Revenue: 17515953.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 99
+Name: European Pay
+Website: european-pay.fr
+Country: fr
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 2.0
+Revenue: 513657.0
+Year Founded: 2022.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']
+
+Rank 100
+Name: VIP Exchange
+Website: vipexchange.uk
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 2.0
+Revenue: 196555.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.0
+Final Score: 0.0
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.0']

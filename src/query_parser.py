@@ -18,6 +18,8 @@ COUNTRY_ALIASES={
     "sweden":"se",
     "europe":"europe",
     "european":"europe",
+    "scandinavian":"scandinavia",
+    "scandinavia":"scandinavia",
 }
 INDUSTRY_KEYWORDS=[
     "software",
@@ -27,6 +29,7 @@ INDUSTRY_KEYWORDS=[
     "construction",
     "fintech",
     "logistics",
+    "logistic",
     "transportation",
     "energy",
     "automotive",
@@ -35,6 +38,11 @@ INDUSTRY_KEYWORDS=[
     "healthcare",
     "cosmetics",
     "retail",
+    "e-commerce",
+    "ecommerce",
+    "food and beverage",
+    "food",
+    "beverage",
 ]
 BUSINESS_MODEL_KEYWORDS=[
     "b2b",
@@ -46,6 +54,7 @@ BUSINESS_MODEL_KEYWORDS=[
     "retail",
     "wholesale",
     "manufacturer",
+    "manufacturers",
     "manufacturing",
     "service provider",
 ]
@@ -107,15 +116,32 @@ def normalize_query_text(query:str):
         clean_parts.append(part)
     clean_query=" ".join(clean_parts)
     return clean_query
+def parse_numeric_value(number_text:str,suffix:str|None=None):
+    value=float(number_text.replace(",",""))
+    if suffix is None:
+        return value
+    suffix=suffix.lower().strip()
+    if suffix in ["k","thousand"]:
+        return value*1000
+    if suffix in ["m","million"]:
+        return value*1000000
+    if suffix in ["b","billion"]:
+        return value*1000000000
+    return value
+
 def find_country_codes(normalized_query:str):
     #detect country codes and region terms
     country_codes=[]
     region_terms=[]
     for alias, code in COUNTRY_ALIASES.items():
-        if alias in normalized_query:
+        pattern=r"\b"+re.escape(alias)+r"\b"
+        if re.search(pattern,normalized_query):
             if code=="europe":
                 if "europe" not in region_terms:
                     region_terms.append("europe")
+            elif code=="scandinavia":
+                if "scandinavia" not in region_terms:
+                    region_terms.append("scandinavia")
             else:
                 if code not in country_codes:
                     country_codes.append(code)
@@ -124,7 +150,8 @@ def find_keywords(normalized_query:str,keyword_list:list[str]):
     #return all keywords from keyword_list that appear in the query
     found_keywords=[]
     for keyword in keyword_list:
-        if keyword in normalized_query:
+        pattern=r"\b"+re.escape(keyword)+r"\b"
+        if re.search(pattern,normalized_query):
             found_keywords.append(keyword)
     return found_keywords
 def parse_public_status(normalized_query:str):
@@ -137,23 +164,40 @@ def parse_public_status(normalized_query:str):
 def parse_employee_constraints(normalized_query:str):
     min_employee_count=None
     max_employee_count=None
-    min_match=re.search(r"(more than|over)\s+(\d+)\s+employees",normalized_query)
+    min_match=re.search(r"(more than|over|at least)\s+(\d[\d,]*)\s+employees",normalized_query)
     if min_match is not None:
-        min_employee_count=float(min_match.group(2))
-    max_match=re.search(r"(less than|under)\s+(\d+)\s+employees",normalized_query)
+        min_employee_count=float(min_match.group(2).replace(",",""))
+    max_match=re.search(r"(less than|under|below|fewer than|at most)\s+(\d[\d,]*)\s+employees",normalized_query)
     if max_match is not None:
-        max_employee_count=float(max_match.group(2))
+        max_employee_count=float(max_match.group(2).replace(",",""))
     return min_employee_count,max_employee_count
-def parse_revenue_constraints(normalized_query:str):
-    min_revenue=None
-    max_revenue=None
-    min_match=re.search(r"revenue\s+(more than|over)\s+(\d+)",normalized_query)
-    if min_match is not None:
-        min_revenue=float(min_match.group(2))
-    max_match=re.search(r"revenue\s+(less than|under)\s+(\d+)",normalized_query)
-    if max_match is not None:
-        max_revenue=float(max_match.group(2))
-    return min_revenue,max_revenue
+def parse_revenue_constraints(normalized_query: str):
+    min_revenue = None
+    max_revenue = None
+
+    min_patterns = [
+        r"revenue\s+(more than|over|above|at least)\s+\$?(\d[\d,]*\.?\d*)\s*(k|thousand|m|million|b|billion)?",
+        r"with revenue\s+(more than|over|above|at least)\s+\$?(\d[\d,]*\.?\d*)\s*(k|thousand|m|million|b|billion)?",
+    ]
+
+    max_patterns = [
+        r"revenue\s+(less than|under|below|at most)\s+\$?(\d[\d,]*\.?\d*)\s*(k|thousand|m|million|b|billion)?",
+        r"with revenue\s+(less than|under|below|at most)\s+\$?(\d[\d,]*\.?\d*)\s*(k|thousand|m|million|b|billion)?",
+    ]
+
+    for pattern in min_patterns:
+        match = re.search(pattern, normalized_query)
+        if match is not None:
+            min_revenue = parse_numeric_value(match.group(2), match.group(3))
+            break
+
+    for pattern in max_patterns:
+        match = re.search(pattern, normalized_query)
+        if match is not None:
+            max_revenue = parse_numeric_value(match.group(2), match.group(3))
+            break
+
+    return min_revenue, max_revenue
 def parse_year_constraints(normalized_query:str):
     min_year_founded=None
     max_year_founded=None
@@ -196,7 +240,14 @@ def classify_query(country_codes:list[str],region_terms:list[str],industry_terms
 def main_parse_query(query:str):
     normalized_query=normalize_query_text(query)
     country_codes,region_terms=find_country_codes(normalized_query)
+    if "scandinavia" in region_terms:
+        for code in ["dk","no","se","fi","is"]:
+            if code not in country_codes:
+                country_codes.append(code)
     industry_terms=find_keywords(normalized_query,INDUSTRY_KEYWORDS)
+    if "logistic" in industry_terms and "logistics" not in industry_terms:
+        industry_terms.append("logistics")
+    industry_terms=[term for term in industry_terms if term != "logistic"]
     business_model_terms=find_keywords(normalized_query,BUSINESS_MODEL_KEYWORDS)
     target_market_terms=find_keywords(normalized_query,TARGET_MARKET_KEYWORDS)
     capability_terms=find_keywords(normalized_query,CAPABILITY_KEYWORDS)

@@ -1,0 +1,1399 @@
+Rank 1
+Name: Brasov Industrial Portfolio
+Website: brasov-industrialportfolio.ro
+Country: ro
+Primary NAICS: General Warehousing and Storage
+Employee Count: None
+Revenue: 1000000000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 4.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 2
+Name: EasyKassa
+Website: easykassa.at
+Country: at
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 1.0
+Revenue: 317781.0
+Year Founded: 2016.0
+Is Public: False
+Candidate Score: 2.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 3
+Name: AryaXAI
+Website: aryaxai.com
+Country: us
+Primary NAICS: Custom Computer Programming Services
+Employee Count: 10.0
+Revenue: 64814.0
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 2.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 4
+Name: Toys"R"Us
+Website: toysrus.com
+Country: us
+Primary NAICS: Hobby, Toy, and Game Retailers
+Employee Count: 64000.0
+Revenue: 10178146941.0
+Year Founded: None
+Is Public: False
+Candidate Score: 1.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 5
+Name: Flextribe
+Website: flextribe.co
+Country: us
+Primary NAICS: Other Paperboard Container Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 1.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 6
+Name: L'Essinganaise
+Website: lessinganaise.com
+Country: fr
+Primary NAICS: Specialty Canning
+Employee Count: None
+Revenue: 200000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 1.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 7
+Name: Clayton Homes
+Website: claytonhomes.com
+Country: us
+Primary NAICS: New Housing For-Sale Builders
+Employee Count: 4500.0
+Revenue: 14947799968.0
+Year Founded: 1956.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 8
+Name: PulteGroup
+Website: pultegroup.com
+Country: us
+Primary NAICS: New Housing For-Sale Builders
+Employee Count: 7523.0
+Revenue: 10109819333.0
+Year Founded: 1950.0
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 9
+Name: SkyHarvest
+Website: skyharvest.eu
+Country: at
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Employee Count: 2.0
+Revenue: None
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 10
+Name: Ariv Pay
+Website: arivpay.com
+Country: gb
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Employee Count: 5.0
+Revenue: 1319900.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 11
+Name: Personio
+Website: None
+Country: de
+Primary NAICS: Software Publishers
+Employee Count: None
+Revenue: None
+Year Founded: 2015.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 12
+Name: Toba HR Solutions
+Website: tobahrsolutions.be
+Country: be
+Primary NAICS: Software Publishers
+Employee Count: 47.0
+Revenue: 11422499.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 13
+Name: Factorial
+Website: factorialhr.de
+Country: es
+Primary NAICS: Software Publishers
+Employee Count: 1.0
+Revenue: 53626.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 14
+Name: Staff & Go
+Website: staffngo.com
+Country: fr
+Primary NAICS: Software Publishers
+Employee Count: 46.0
+Revenue: 5802224.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 15
+Name: Simplismart
+Website: simplismart.ai
+Country: in
+Primary NAICS: Custom Computer Programming Services
+Employee Count: 23.0
+Revenue: 9305607.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 16
+Name: None
+Website: icontributetoml.herokuapp.com
+Country: ca
+Primary NAICS: Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)
+Employee Count: None
+Revenue: 162104.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 17
+Name: Chen Qian
+Website: chenmoney.com
+Country: us
+Primary NAICS: Custom Computer Programming Services
+Employee Count: None
+Revenue: 268562.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 18
+Name: feder8.ai
+Website: None
+Country: ca
+Primary NAICS: Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)
+Employee Count: None
+Revenue: None
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 19
+Name: Sowin Power
+Website: sowinpower.no
+Country: no
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 3000000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 20
+Name: CIRKEL Energi
+Website: cirkelenergi.dk
+Country: dk
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Employee Count: 4.0
+Revenue: 122254865.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 21
+Name: Galileo Empower Finland
+Website: galileoempower.fi
+Country: fi
+Primary NAICS: Wind Electric Power Generation
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 22
+Name: WindSpider
+Website: windspider.com
+Country: no
+Primary NAICS: Construction Machinery Manufacturing
+Employee Count: 10.0
+Revenue: 193865443.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 23
+Name: Norwin Energy
+Website: norwinenergy.com
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 1.0
+Revenue: 122254865.0
+Year Founded: 2011.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 24
+Name: VASOL TECH
+Website: vasol.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: 6.0
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 25
+Name: Ecopwr
+Website: ecopwr.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 5270173.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 26
+Name: Walmart
+Website: walmart.com
+Country: us
+Primary NAICS: Warehouse Clubs and Supercenters
+Employee Count: 2100000.0
+Revenue: 2500388591944.0
+Year Founded: 1962.0
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 27
+Name: Dell Technologies
+Website: dell.com
+Country: au
+Primary NAICS: Electronic Computer Manufacturing
+Employee Count: 120000.0
+Revenue: 151451288062.0
+Year Founded: 1984.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 28
+Name: The Home Depot
+Website: homedepot.com
+Country: us
+Primary NAICS: Home Centers
+Employee Count: 470100.0
+Revenue: 97712052923.0
+Year Founded: 1978.0
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 29
+Name: US Foods
+Website: usfoods.com
+Country: us
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Employee Count: 30000.0
+Revenue: 52277062029.0
+Year Founded: 1989.0
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 30
+Name: Decathlon
+Website: decathlon.com
+Country: fr
+Primary NAICS: Sporting Goods Retailers
+Employee Count: 101000.0
+Revenue: 43257972115.0
+Year Founded: 1976.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 31
+Name: Forever 21
+Website: forever21.com
+Country: us
+Primary NAICS: Department Stores
+Employee Count: 43000.0
+Revenue: 36400423080.0
+Year Founded: 1984.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 32
+Name: nothing,nowhere
+Website: nothingnowhere.net
+Country: us
+Primary NAICS: Record Production and Distribution
+Employee Count: 29000.0
+Revenue: 31011144015.0
+Year Founded: 2005.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 33
+Name: Nippon Paint Singapore
+Website: nipponpaint.com.sg
+Country: sg
+Primary NAICS: Paint and Coating Manufacturing
+Employee Count: 6.0
+Revenue: 30247631015.0
+Year Founded: 1962.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 34
+Name: Gillette
+Website: gillette.com
+Country: us
+Primary NAICS: All Other Miscellaneous Manufacturing
+Employee Count: 29000.0
+Revenue: 28602955628.0
+Year Founded: 1901.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 35
+Name: Coles
+Website: coles.com.au
+Country: au
+Primary NAICS: Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+Employee Count: 120000.0
+Revenue: 27260006458.0
+Year Founded: 1914.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 36
+Name: Hy-Vee
+Website: hy-vee.com
+Country: us
+Primary NAICS: Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+Employee Count: 93000.0
+Revenue: 24807625950.0
+Year Founded: 1930.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 37
+Name: DaVinci Gourmet
+Website: davincigourmet.com
+Country: ie
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 26000.0
+Revenue: 24140277671.0
+Year Founded: 1989.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 38
+Name: Dior
+Website: dior.com
+Country: fr
+Primary NAICS: Cut and Sew Apparel Manufacturing (except Contractors)
+Employee Count: 196006.0
+Revenue: 17584965164.0
+Year Founded: 1946.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 39
+Name: H&M Home
+Website: hm.com
+Country: kw
+Primary NAICS: Clothing and Clothing Accessories Retailers
+Employee Count: 101000.0
+Revenue: 15810524400.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 40
+Name: Avery
+Website: avery.com
+Country: us
+Primary NAICS: Stationery Product Manufacturing
+Employee Count: 35000.0
+Revenue: 14055555396.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 41
+Name: Nespresso
+Website: nespresso.com
+Country: kr
+Primary NAICS: Coffee and Tea Manufacturing
+Employee Count: 13500.0
+Revenue: 13537939476.0
+Year Founded: 1986.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 42
+Name: Produit en Bretagne
+Website: produitenbretagne.bzh
+Country: fr
+Primary NAICS: Civic and Social Organizations
+Employee Count: 1.0
+Revenue: 12910982151.0
+Year Founded: 1993.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 43
+Name: Kohler
+Website: kohler.co.nz
+Country: nz
+Primary NAICS: Plumbing Fixture Fitting and Trim Manufacturing
+Employee Count: None
+Revenue: 12896977134.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 44
+Name: Hako
+Website: hakoaustralia.com.au
+Country: au
+Primary NAICS: Commercial and Service Industry Machinery Manufacturing
+Employee Count: 29.0
+Revenue: 12506099722.0
+Year Founded: 1984.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 45
+Name: DrinkAriZona
+Website: drinkarizona.com
+Country: us
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 10000.0
+Revenue: 11008332968.0
+Year Founded: 1992.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 46
+Name: Decathlon
+Website: decathlon.it
+Country: it
+Primary NAICS: Sporting Goods Retailers
+Employee Count: 105000.0
+Revenue: 10993493829.0
+Year Founded: 1993.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 47
+Name: BTN de Haas
+Website: btndehaas.nl
+Country: nl
+Primary NAICS: Farm Supplies Merchant Wholesalers
+Employee Count: 18.0
+Revenue: 10654512872.0
+Year Founded: 1925.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 48
+Name: Coop Sleep Goods
+Website: coopsleepgoods.com
+Country: us
+Primary NAICS: Mattress Manufacturing
+Employee Count: 19000.0
+Revenue: 10645810368.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 49
+Name: PEZ Candy
+Website: pez.com
+Country: us
+Primary NAICS: Nonchocolate Confectionery Manufacturing
+Employee Count: 110.0
+Revenue: 10573379296.0
+Year Founded: 1927.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 50
+Name: Ford Credit
+Website: ford.co.uk
+Country: gb
+Primary NAICS: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+Employee Count: 8500.0
+Revenue: 10286325135.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 51
+Name: Harbor Freight
+Website: harborfreight.com
+Country: us
+Primary NAICS: Hardware Retailers
+Employee Count: 28000.0
+Revenue: 9357146316.0
+Year Founded: 1977.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 52
+Name: Lululemon
+Website: lululemon.com
+Country: us
+Primary NAICS: Clothing and Clothing Accessories Retailers
+Employee Count: 39000.0
+Revenue: 9309007637.0
+Year Founded: 1998.0
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 53
+Name: Roca
+Website: roca.es
+Country: es
+Primary NAICS: Plumbing Fixture Fitting and Trim Manufacturing
+Employee Count: 8.0
+Revenue: 8586393550.0
+Year Founded: 1917.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 54
+Name: Aotea Wellness
+Website: aoteanz.com
+Country: nz
+Primary NAICS: Toilet Preparation Manufacturing
+Employee Count: 47.0
+Revenue: 8530422649.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 55
+Name: Aromas Coffee Roasters
+Website: aromas.com.au
+Country: au
+Primary NAICS: Coffee and Tea Manufacturing
+Employee Count: 3.0
+Revenue: 7292718659.0
+Year Founded: 1982.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 56
+Name: RAW Rolling Papers
+Website: rawthentic.com
+Country: us
+Primary NAICS: All Other Converted Paper Product Manufacturing
+Employee Count: 2000.0
+Revenue: 7283511532.0
+Year Founded: 1995.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 57
+Name: Goya Foods
+Website: goya.com
+Country: us
+Primary NAICS: All Other Miscellaneous Food Manufacturing
+Employee Count: 4000.0
+Revenue: 7113200965.0
+Year Founded: 1936.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 58
+Name: BAOLILONG GLASS PACKAGING
+Website: baolilongglasspackaging.com
+Country: cn
+Primary NAICS: Glass Container Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2018.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 59
+Name: Aurelo Packaging Co
+Website: aurelopackaging.com.au
+Country: au
+Primary NAICS: Glass Container Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 60
+Name: YONWOO
+Website: yonwookorea.com
+Country: kr
+Primary NAICS: Plastics Bottle Manufacturing
+Employee Count: 57.0
+Revenue: 26732731.0
+Year Founded: 1983.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 61
+Name: Yijie Packaging
+Website: yijiepackaging.en.alibaba.com
+Country: cn
+Primary NAICS: Glass Container Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 62
+Name: Shenzhen Itop Cosmetic Packaging
+Website: itoppacking.com
+Country: cn
+Primary NAICS: Plastics Bottle Manufacturing
+Employee Count: None
+Revenue: 5239575.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 63
+Name: Telefónica Venture Builder
+Website: telefonica.com
+Country: es
+Primary NAICS: Computer Systems Design Services
+Employee Count: 100870.0
+Revenue: 16873072935.0
+Year Founded: None
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 64
+Name: CGI
+Website: cgi.com
+Country: ca
+Primary NAICS: Computer Systems Design Services
+Employee Count: 95000.0
+Revenue: 19128497746.0
+Year Founded: 1976.0
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 65
+Name: Mon BE Fluides
+Website: monbefluides.fr
+Country: fr
+Primary NAICS: Engineering Services
+Employee Count: 3.0
+Revenue: 399621.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 66
+Name: Auxeris Consulting
+Website: auxerisconsulting.com
+Country: us
+Primary NAICS: Administrative Management and General Management Consulting Services
+Employee Count: 1.0
+Revenue: 325449.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 67
+Name: Energi og Byggestyring
+Website: byggestyr.dk
+Country: dk
+Primary NAICS: Administrative Management and General Management Consulting Services
+Employee Count: None
+Revenue: None
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 68
+Name: Algavo
+Website: algavo.com
+Country: no
+Primary NAICS: Other Scientific and Technical Consulting Services
+Employee Count: 2.0
+Revenue: 703951.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 69
+Name: E-Lyte
+Website: e-lyte.de
+Country: de
+Primary NAICS: All Other Miscellaneous Chemical Product and Preparation Manufacturing
+Employee Count: 34.0
+Revenue: 7531907.0
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 70
+Name: NexTech Batteries
+Website: nextechbatteries.com
+Country: us
+Primary NAICS: Battery Manufacturing
+Employee Count: 9.0
+Revenue: 43479170.0
+Year Founded: 2016.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 71
+Name: Shenzhen Atsm Energy
+Website: atsmlab.en.alibaba.com
+Country: cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 72
+Name: Rusaccum
+Website: rusaccum.ru
+Country: ru
+Primary NAICS: Battery Manufacturing
+Employee Count: None
+Revenue: 5610317.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 73
+Name: Greenbatt Technology
+Website: greenbatt.ch
+Country: ch
+Primary NAICS: Battery Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2017.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 74
+Name: Xinliyuan
+Website: jsxlytech.com
+Country: cn
+Primary NAICS: Battery Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 75
+Name: Yumi
+Website: yumi.fr
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 57.0
+Revenue: 19324067.0
+Year Founded: 2014.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 76
+Name: Fermenting & Co
+Website: fermentingandco.fr
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 3.0
+Revenue: 4448170.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 77
+Name: Conserverie Fourmi
+Website: conserverie-fourmi.fr
+Country: fr
+Primary NAICS: Fruit and Vegetable Canning
+Employee Count: 2.0
+Revenue: 712711.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 78
+Name: GreenLeaf Mate
+Website: greenleaf-mate.com
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 79
+Name: Thyborøn Sydhavn 2 | Vestas-mølle
+Website: thybsydhavnmolle-2.dk
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 19506407.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 80
+Name: Magnora
+Website: magnoraasa.com
+Country: no
+Primary NAICS: Power and Communication Line and Related Structures Construction
+Employee Count: 23.0
+Revenue: 193865443.0
+Year Founded: 2018.0
+Is Public: True
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 81
+Name: CIRKEL Energi
+Website: cirkelenergi.dk
+Country: dk
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Employee Count: 4.0
+Revenue: 122254865.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 82
+Name: WindSpider
+Website: windspider.com
+Country: no
+Primary NAICS: Construction Machinery Manufacturing
+Employee Count: 10.0
+Revenue: 193865443.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 83
+Name: Folksol
+Website: folksol.se
+Country: se
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 84
+Name: Nestlé Health Science
+Website: nestlehealthscience.com
+Country: ch
+Primary NAICS: Medicinal and Botanical Manufacturing
+Employee Count: 11000.0
+Revenue: 16822327008.0
+Year Founded: 2011.0
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 85
+Name: Celonic
+Website: celonic.com
+Country: ch
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Employee Count: 329.0
+Revenue: 322457196.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 86
+Name: Rompetrol
+Website: rompetrol.ro
+Country: ro
+Primary NAICS: Petroleum Refineries
+Employee Count: None
+Revenue: 13498241905.0
+Year Founded: 1979.0
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 87
+Name: Unilever
+Website: unilever.ro
+Country: ro
+Primary NAICS: Other Chemical and Allied Products Merchant Wholesalers
+Employee Count: None
+Revenue: 12802072204.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 88
+Name: Rompetrol
+Website: rompetrol.com
+Country: ro
+Primary NAICS: Petroleum Refineries
+Employee Count: 7000.0
+Revenue: 12664964365.0
+Year Founded: 1974.0
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 89
+Name: CBRE Romania
+Website: cbre.ro
+Country: ro
+Primary NAICS: Offices of Real Estate Agents and Brokers
+Employee Count: 92.0
+Revenue: 9568739216.0
+Year Founded: 2008.0
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 90
+Name: TIMAC AGRO
+Website: timacagro.com
+Country: ro
+Primary NAICS: Nitrogenous Fertilizer Manufacturing
+Employee Count: 65.0
+Revenue: 8907855312.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 91
+Name: OMV
+Website: omv.ro
+Country: ro
+Primary NAICS: Other Gasoline Stations
+Employee Count: None
+Revenue: 6542287157.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 92
+Name: Compania Națională de Căi Ferate CFR
+Website: cfr.ro
+Country: ro
+Primary NAICS: Support Activities for Rail Transportation
+Employee Count: 54000.0
+Revenue: 5290917696.0
+Year Founded: 1880.0
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 93
+Name: Mercedes-Benz Trucks & Buses Romania
+Website: mercedes-benz-trucks-mbb.ro
+Country: ro
+Primary NAICS: New Car Dealers
+Employee Count: None
+Revenue: 4801923600.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 94
+Name: Dacia
+Website: dacia.ro
+Country: ro
+Primary NAICS: Automobile and Light Duty Motor Vehicle Manufacturing
+Employee Count: 11026.0
+Revenue: 4495347345.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 95
+Name: Fildas Trading
+Website: fildas.ro
+Country: ro
+Primary NAICS: Drugs and Druggists' Sundries Merchant Wholesalers
+Employee Count: 838.0
+Revenue: 3492536857.0
+Year Founded: 1991.0
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 96
+Name: Portul Constanta
+Website: portofconstantza.com
+Country: ro
+Primary NAICS: Port and Harbor Operations
+Employee Count: 6000.0
+Revenue: 1727732794.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 97
+Name: Bunge Romania
+Website: bunge-romania.ro
+Country: ro
+Primary NAICS: Soybean and Other Oilseed Processing
+Employee Count: None
+Revenue: 1506056258.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 98
+Name: Romgaz
+Website: romgaz.ro
+Country: ro
+Primary NAICS: Natural Gas Extraction
+Employee Count: 5287.0
+Revenue: 1383562888.0
+Year Founded: 1909.0
+Is Public: True
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 99
+Name: METRO România
+Website: metro.ro
+Country: ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Employee Count: 810.0
+Revenue: 1300592908.0
+Year Founded: 1996.0
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 100
+Name: Transgaz
+Website: transgaz.ro
+Country: ro
+Primary NAICS: Natural Gas Distribution
+Employee Count: 4628.0
+Revenue: 1211108198.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 0.0
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']

@@ -1,0 +1,853 @@
+Rank 1
+Name: Ventum Dynamics
+Website: ventumdynamics.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 14.0
+Revenue: 193865443.0
+Year Founded: None
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 2
+Name: Norhybrid Renewables
+Website: norhybrid.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 10.0
+Revenue: 193865443.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 3
+Name: MantaWind
+Website: None
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2018.0
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 4
+Name: Varmalämmitys
+Website: varmalammitys.fi
+Country: fi
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Employee Count: None
+Revenue: 79142168.0
+Year Founded: None
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 5
+Name: Sowin Power
+Website: sowinpower.no
+Country: no
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 3000000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 6
+Name: Verta
+Website: None
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 7
+Name: VASOL TECH
+Website: vasol.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: 6.0
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 8
+Name: Styri
+Website: styri.eu
+Country: no
+Primary NAICS: Engineering Services
+Employee Count: 4.0
+Revenue: 1271015.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 9
+Name: Verta
+Website: None
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 10
+Name: Norhybrid Renewables
+Website: norhybrid.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 10.0
+Revenue: 193865443.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 11
+Name: MantaWind
+Website: None
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2018.0
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 12
+Name: Lundeseter Solcellepark
+Website: lscp.no
+Country: no
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 7.25
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 13
+Name: OMV
+Website: omv.ro
+Country: ro
+Primary NAICS: Other Gasoline Stations
+Employee Count: None
+Revenue: 6542287157.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 14
+Name: Siemens Energy
+Website: None
+Country: fi
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 15
+Name: Wave Dragon
+Website: wavedragon.com
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 7.0
+Revenue: 6375659.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 16
+Name: Rögle Vindkraftpark
+Website: None
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 17
+Name: Tesla Ocean Turbine
+Website: teslaoceanturbine.com
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 18481391.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 18
+Name: windainergy
+Website: windainergy.com
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 19
+Name: Carita och Torbjörn
+Website: cktl.se
+Country: se
+Primary NAICS: Wind Electric Power Generation
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 20
+Name: SideWind
+Website: sidewind.is
+Country: is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 4.0
+Revenue: 24843385.0
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 21
+Name: Next Fabrication
+Website: nextfabrication.com
+Country: dk
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Employee Count: 4.0
+Revenue: 6343512.0
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 22
+Name: World Wide Wind
+Website: worldwidewind.no
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 6.0
+Revenue: 193865443.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 23
+Name: Galileo Empower Finland
+Website: galileoempower.fi
+Country: fi
+Primary NAICS: Wind Electric Power Generation
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 24
+Name: Teqniq
+Website: teqniq.fi
+Country: fi
+Primary NAICS: Engineering Services
+Employee Count: None
+Revenue: 34057455.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 25
+Name: Pellbin Turbine
+Website: pellbin.se
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 26
+Name: Sunnytek
+Website: sunnytek.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 432857.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 27
+Name: Fallorka
+Website: fallorka.is
+Country: is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 135791654.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 28
+Name: Sol Industries
+Website: sol-ind.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 29
+Name: Krefter
+Website: krefter.no
+Country: no
+Primary NAICS: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
+Employee Count: 1.0
+Revenue: 10114124.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 30
+Name: Erikshester Vindpark
+Website: vindparken.se
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 101017584.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 31
+Name: Ecopwr
+Website: ecopwr.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 5270173.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 32
+Name: Logic-Energy
+Website: teunhulst.nl
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 33
+Name: Fred. Olsen 1848
+Website: fredolsen1848.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 15.0
+Revenue: 54750063.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 34
+Name: Volta Capital
+Website: voltacapital.it
+Country: it
+Primary NAICS: Other Scientific and Technical Consulting Services
+Employee Count: 1.0
+Revenue: 442431.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 35
+Name: Utilify
+Website: utilifyapp.com
+Country: us
+Primary NAICS: Other Scientific and Technical Consulting Services
+Employee Count: 1.0
+Revenue: 487116.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 36
+Name: Tri Hita Consulting
+Website: trihita-consulting.com
+Country: id
+Primary NAICS: Other Management Consulting Services
+Employee Count: 16.0
+Revenue: 193177.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 37
+Name: Solarschmiede
+Website: solarschmiede.ch
+Country: ch
+Primary NAICS: Engineering Services
+Employee Count: 2.0
+Revenue: None
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 38
+Name: Auratech Engineering
+Website: auratechpro.it
+Country: it
+Primary NAICS: Engineering Services
+Employee Count: 1.0
+Revenue: 8057476.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 39
+Name: Inside Edge
+Website: inside-edge.co.uk
+Country: gb
+Primary NAICS: Administrative Management and General Management Consulting Services
+Employee Count: 1.0
+Revenue: 143246.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 40
+Name: Enviroway Advisory
+Website: envirowayadvisory.com
+Country: ar
+Primary NAICS: Other Scientific and Technical Consulting Services
+Employee Count: 5.0
+Revenue: 1100196.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 41
+Name: Energy-Technik
+Website: energy-technik.com
+Country: eg
+Primary NAICS: Engineering Services
+Employee Count: 1.0
+Revenue: None
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 42
+Name: PACE
+Website: pace-energy.eu
+Country: be
+Primary NAICS: Engineering Services
+Employee Count: 3.0
+Revenue: 500645.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 43
+Name: Archipel Bouwadvies
+Website: archipelbouwadvies.nl
+Country: nl
+Primary NAICS: Architectural Services
+Employee Count: 2.0
+Revenue: 351764.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 44
+Name: Asvata
+Website: asvata.com
+Country: in
+Primary NAICS: Environmental Consulting Services
+Employee Count: 7.0
+Revenue: 49957.0
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 45
+Name: MCR Proyectos
+Website: mcrproyectos.cl
+Country: cl
+Primary NAICS: Engineering Services
+Employee Count: 1.0
+Revenue: None
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 46
+Name: NextGEN Energy
+Website: nextgen-energy.eu
+Country: it
+Primary NAICS: Engineering Services
+Employee Count: 5.0
+Revenue: 793607.0
+Year Founded: 2024.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 47
+Name: E-Lyte
+Website: e-lyte.de
+Country: de
+Primary NAICS: All Other Miscellaneous Chemical Product and Preparation Manufacturing
+Employee Count: 34.0
+Revenue: 7531907.0
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 48
+Name: Wanbang New Energy
+Website: scusne.com
+Country: cn
+Primary NAICS: Battery Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 49
+Name: SolidEdge Solution
+Website: solidedgesolution.com
+Country: tw
+Primary NAICS: Battery Manufacturing
+Employee Count: 17.0
+Revenue: 18333244.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 50
+Name: RJETech
+Website: None
+Country: cn
+Primary NAICS: Battery Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2022.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 51
+Name: Sili Energy
+Website: silienergy.kr
+Country: kr
+Primary NAICS: Battery Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 52
+Name: Hisun
+Website: thehisun.com
+Country: us
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2022.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 53
+Name: Li Hongte
+Website: lihongte.com
+Country: cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 54
+Name: RJETech
+Website: rjetech.com
+Country: cn
+Primary NAICS: Battery Manufacturing
+Employee Count: 2.0
+Revenue: 120689.0
+Year Founded: 2022.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 55
+Name: POLYENTECH
+Website: polyentech.com
+Country: cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Employee Count: None
+Revenue: 7608704.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 56
+Name: Hunan Yueneng New Energy Battery Material Co., Ltd.
+Website: hunanyuneng.com
+Country: cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Employee Count: None
+Revenue: 7608704.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 57
+Name: Nanjing Blue Solid New Energy
+Website: liongo.com.cn
+Country: cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Employee Count: None
+Revenue: 4565222.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'missing employee_count', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 58
+Name: Nuvvon
+Website: nuvvon.com
+Country: us
+Primary NAICS: Battery Manufacturing
+Employee Count: 9.0
+Revenue: 30370795.0
+Year Founded: 2022.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']
+
+Rank 59
+Name: Taibang New Energy
+Website: ctlne.com
+Country: cn
+Primary NAICS: Battery Manufacturing
+Employee Count: 3.0
+Revenue: 9130445.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 60
+Name: Sepion Technologies
+Website: sepiontechnologies.com
+Country: us
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: 23.0
+Revenue: 33407512.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: True
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'missing year_founded', 'no maximum founded year constraint']
+
+Rank 61
+Name: Mitra Chem
+Website: mitrachem.com
+Country: us
+Primary NAICS: Battery Manufacturing
+Employee Count: 60.0
+Revenue: 10152175.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Passed All: True
+Has Uncertainty: False
+Reasons: ['no country contraint', 'no public/private constraint', 'no minimum employee constraint', 'employee_count satisfies maximum', 'no minimum revenue constraint', 'no maximum revenue constraint', 'year_founded satisfies minimum', 'no maximum founded year constraint']

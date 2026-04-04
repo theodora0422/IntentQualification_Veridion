@@ -1,0 +1,359 @@
+Rank 1
+Name: CBRE Romania
+Website: cbre.ro
+Primary NAICS: Offices of Real Estate Agents and Brokers
+Candidate Score: 2.25
+
+Rank 2
+Name: Valbur
+Website: vt-i.eu
+Primary NAICS: Industrial Supplies Merchant Wholesalers
+Candidate Score: 2.25
+
+Rank 3
+Name: Brasov Industrial Portfolio
+Website: brasov-industrialportfolio.ro
+Primary NAICS: General Warehousing and Storage
+Candidate Score: 2.25
+
+Rank 4
+Name: AQUA CENTER
+Website: aquacenter.ro
+Primary NAICS: Plastics Pipe and Pipe Fitting Manufacturing
+Candidate Score: 2.25
+
+Rank 5
+Name: Colaska
+Website: colaska.com
+Primary NAICS: Highway, Street, and Bridge Construction
+Candidate Score: 2.25
+
+Rank 6
+Name: BrandSafway
+Website: brandsafway.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 2.25
+
+Rank 7
+Name: Fluor
+Website: fluor.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 2.25
+
+Rank 8
+Name: Kiewit
+Website: kiewit.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 2.25
+
+Rank 9
+Name: Lemartec
+Website: lemartec.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 10
+Name: Clayton Homes
+Website: claytonhomes.com
+Primary NAICS: New Housing For-Sale Builders
+Candidate Score: 2.25
+
+Rank 11
+Name: Brock Group
+Website: brockgroup.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 2.25
+
+Rank 12
+Name: Quanta Services
+Website: quantaservices.com
+Primary NAICS: Power and Communication Line and Related Structures Construction
+Candidate Score: 2.25
+
+Rank 13
+Name: BNBuilders
+Website: bnbuilders.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 14
+Name: EMCOR Group
+Website: emcorgroup.com
+Primary NAICS: Electrical Contractors and Other Wiring Installation Contractors
+Candidate Score: 2.25
+
+Rank 15
+Name: Skanska
+Website: skanska.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 16
+Name: Versar
+Website: jmwaller.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 2.25
+
+Rank 17
+Name: Bechtel
+Website: bechtel.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 2.25
+
+Rank 18
+Name: Halmar International
+Website: halmarinternational.com
+Primary NAICS: Highway, Street, and Bridge Construction
+Candidate Score: 2.25
+
+Rank 19
+Name: Focus Civil Construction Group
+Website: focuscivil.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 20
+Name: Tutor Perini
+Website: tutorperini.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 21
+Name: Versar
+Website: geo-marine.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 2.25
+
+Rank 22
+Name: Trusted Solutions Group
+Website: tsg28.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 23
+Name: DPR Construction
+Website: dpr.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 24
+Name: Rögle Vindkraftpark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 25
+Name: Puhuri
+Website: puhuri.fi
+Primary NAICS: Wind Electric Power Generation
+Candidate Score: 2.25
+
+Rank 26
+Name: Texon
+Website: texonsystems.com
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Candidate Score: 2.25
+
+Rank 27
+Name: Varmalämmitys
+Website: varmalammitys.fi
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Candidate Score: 2.25
+
+Rank 28
+Name: CSI Compass
+Website: csicompass.co.uk
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 29
+Name: RX-WATERTEC
+Website: rx-watertec.com
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 30
+Name: Auratech Engineering
+Website: auratechpro.it
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 31
+Name: Terzic Urban Engineering
+Website: terziceng.ch
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 32
+Name: MA-Engineering
+Website: ma-engineering.ch
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 33
+Name: Energi og Byggestyring
+Website: byggestyr.dk
+Primary NAICS: Administrative Management and General Management Consulting Services
+Candidate Score: 2.25
+
+Rank 34
+Name: MCR Proyectos
+Website: mcrproyectos.cl
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 35
+Name: Fengyang Pengen
+Website: pennenergy.cn
+Primary NAICS: Battery Manufacturing
+Candidate Score: 2.25
+
+Rank 36
+Name: Fastnet
+Website: fastnet.se
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 37
+Name: Rögle Vindkraftpark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 38
+Name: SVENO
+Website: sveno.no
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 2.25
+
+Rank 39
+Name: OSCAR
+Website: oscars.ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 0.75
+
+Rank 40
+Name: Valtec
+Website: valtec.nl
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 0.75
+
+Rank 41
+Name: PulteGroup
+Website: pultegroup.com
+Primary NAICS: New Housing For-Sale Builders
+Candidate Score: 0.75
+
+Rank 42
+Name: Rantum Capital
+Website: rantumcapital.de
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.75
+
+Rank 43
+Name: AI Partnerships
+Website: aipartnershipscorp.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 0.75
+
+Rank 44
+Name: Liftra
+Website: liftra.com
+Primary NAICS: Construction Machinery Manufacturing
+Candidate Score: 0.75
+
+Rank 45
+Name: Next Fabrication
+Website: nextfabrication.com
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 0.75
+
+Rank 46
+Name: Galileo Empower Finland
+Website: galileoempower.fi
+Primary NAICS: Wind Electric Power Generation
+Candidate Score: 0.75
+
+Rank 47
+Name: WindSpider
+Website: windspider.com
+Primary NAICS: Construction Machinery Manufacturing
+Candidate Score: 0.75
+
+Rank 48
+Name: Nippon Paint Singapore
+Website: nipponpaint.com.sg
+Primary NAICS: Paint and Coating Manufacturing
+Candidate Score: 0.75
+
+Rank 49
+Name: Produit en Bretagne
+Website: produitenbretagne.bzh
+Primary NAICS: Civic and Social Organizations
+Candidate Score: 0.75
+
+Rank 50
+Name: CGI
+Website: cgi.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 0.75
+
+Rank 51
+Name: Solarschmiede
+Website: solarschmiede.ch
+Primary NAICS: Engineering Services
+Candidate Score: 0.75
+
+Rank 52
+Name: Agir&Tude
+Website: agiretude.fr
+Primary NAICS: Engineering Services
+Candidate Score: 0.75
+
+Rank 53
+Name: Archipel Bouwadvies
+Website: archipelbouwadvies.nl
+Primary NAICS: Architectural Services
+Candidate Score: 0.75
+
+Rank 54
+Name: Next Fabrication
+Website: nextfabrication.com
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 0.75
+
+Rank 55
+Name: Effecta Energy Solutions
+Website: effecta.se
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Candidate Score: 0.75
+
+Rank 56
+Name: David Nyren
+Website: davidnyren.se
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Candidate Score: 0.75
+
+Rank 57
+Name: Enercon
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 0.75
+
+Rank 58
+Name: Magnora
+Website: magnoraasa.com
+Primary NAICS: Power and Communication Line and Related Structures Construction
+Candidate Score: 0.75
+
+Rank 59
+Name: Navitas
+Website: nace.dk
+Primary NAICS: Engineering Services
+Candidate Score: 0.75
+
+Rank 60
+Name: WindSpider
+Website: windspider.com
+Primary NAICS: Construction Machinery Manufacturing
+Candidate Score: 0.75

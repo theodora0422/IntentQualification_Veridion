@@ -1,0 +1,685 @@
+Rank 1
+Name: Next Fabrication
+Website: nextfabrication.com
+Country: dk
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Employee Count: 4.0
+Revenue: 6343512.0
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 7.25
+Final Score: 11.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 7.25', 'matched required term: energy', 'matched supportive term:manufacturers']
+
+Rank 2
+Name: Winergy Finland
+Website: None
+Country: fi
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 1981.0
+Is Public: False
+Candidate Score: 7.25
+Final Score: 11.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 7.25', 'matched required term: energy', 'matched supportive term:manufacturers']
+
+Rank 3
+Name: Next Fabrication
+Website: nextfabrication.com
+Country: dk
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Employee Count: 4.0
+Revenue: 6343512.0
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 7.25
+Final Score: 11.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 7.25', 'matched required term: energy', 'matched supportive term:manufacturers']
+
+Rank 4
+Name: Hydra Tidal Energy Technology
+Website: None
+Country: no
+Primary NAICS: Engineering Services
+Employee Count: None
+Revenue: None
+Year Founded: 2001.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 5
+Name: Siemens Energy
+Website: None
+Country: fi
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 6
+Name: Wave Dragon
+Website: wavedragon.com
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 7.0
+Revenue: 6375659.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 7
+Name: Moventas
+Website: moventas.com
+Country: fi
+Primary NAICS: Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing
+Employee Count: 4.0
+Revenue: 184360773.0
+Year Founded: 2005.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 8
+Name: ICEWIND
+Website: icewind.is
+Country: is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 11.0
+Revenue: 18486853.0
+Year Founded: 2012.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 9
+Name: Ventum Dynamics
+Website: ventumdynamics.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 14.0
+Revenue: 193865443.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 10
+Name: Rögle Vindkraftpark
+Website: None
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 11
+Name: Norhybrid Renewables
+Website: norhybrid.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 10.0
+Revenue: 193865443.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 12
+Name: Tesla Ocean Turbine
+Website: teslaoceanturbine.com
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 18481391.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 13
+Name: Naust Marine
+Website: naust.is
+Country: is
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 5500000.0
+Year Founded: 2005.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 14
+Name: ENERCON
+Website: None
+Country: se
+Primary NAICS: Wind Electric Power Generation
+Employee Count: None
+Revenue: None
+Year Founded: 1984.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 15
+Name: Puhuri
+Website: puhuri.fi
+Country: fi
+Primary NAICS: Wind Electric Power Generation
+Employee Count: 20.0
+Revenue: 153633978.0
+Year Founded: 2010.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 16
+Name: Liftra
+Website: liftra.com
+Country: dk
+Primary NAICS: Construction Machinery Manufacturing
+Employee Count: None
+Revenue: 80000000.0
+Year Founded: 2003.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 17
+Name: windainergy
+Website: windainergy.com
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 18
+Name: MantaWind
+Website: None
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2018.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 19
+Name: Aeolos Wind Turbine Company
+Website: betaflight.cn
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 15000000.0
+Year Founded: 1986.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 20
+Name: Vestas
+Website: vestas.com
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 35100.0
+Revenue: 57215276900.0
+Year Founded: 1945.0
+Is Public: True
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 21
+Name: Texon
+Website: texonsystems.com
+Country: no
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Employee Count: None
+Revenue: 1420425.0
+Year Founded: 2010.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 22
+Name: Varmalämmitys
+Website: varmalammitys.fi
+Country: fi
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Employee Count: None
+Revenue: 79142168.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 23
+Name: Carita och Torbjörn
+Website: cktl.se
+Country: se
+Primary NAICS: Wind Electric Power Generation
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 24
+Name: SideWind
+Website: sidewind.is
+Country: is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 4.0
+Revenue: 24843385.0
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 25
+Name: International Wind Energy
+Website: None
+Country: dk
+Primary NAICS: Other Electronic Parts and Equipment Merchant Wholesalers
+Employee Count: None
+Revenue: None
+Year Founded: 2003.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 26
+Name: Sowin Power
+Website: sowinpower.no
+Country: no
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 3000000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 27
+Name: World Wide Wind
+Website: worldwidewind.no
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 6.0
+Revenue: 193865443.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 28
+Name: CIRKEL Energi
+Website: cirkelenergi.dk
+Country: dk
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Employee Count: 4.0
+Revenue: 122254865.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 29
+Name: Galileo Empower Finland
+Website: galileoempower.fi
+Country: fi
+Primary NAICS: Wind Electric Power Generation
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 30
+Name: DEIF Wind Power Technology
+Website: None
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 1933.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 31
+Name: Teqniq
+Website: teqniq.fi
+Country: fi
+Primary NAICS: Engineering Services
+Employee Count: None
+Revenue: 34057455.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 32
+Name: JN-Solar
+Website: jn-solar.fi
+Country: fi
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2007.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 33
+Name: Pellbin Turbine
+Website: pellbin.se
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 34
+Name: Sunnytek
+Website: sunnytek.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 432857.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 35
+Name: Norwin Energy
+Website: norwinenergy.com
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 1.0
+Revenue: 122254865.0
+Year Founded: 2011.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 36
+Name: Fallorka
+Website: fallorka.is
+Country: is
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 135791654.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 37
+Name: Verta
+Website: None
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 38
+Name: Rhino Power
+Website: rhinopower.fi
+Country: fi
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 16095954.0
+Year Founded: 2009.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 39
+Name: VASOL TECH
+Website: vasol.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: 6.0
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 40
+Name: Sol Industries
+Website: sol-ind.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 41
+Name: Krefter
+Website: krefter.no
+Country: no
+Primary NAICS: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
+Employee Count: 1.0
+Revenue: 10114124.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 42
+Name: Erikshester Vindpark
+Website: vindparken.se
+Country: se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: 101017584.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 43
+Name: Envision Energy Denmark
+Website: None
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2007.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 44
+Name: Ecopwr
+Website: ecopwr.se
+Country: se
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Employee Count: None
+Revenue: 5270173.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 45
+Name: DEIF
+Website: deif.com
+Country: dk
+Primary NAICS: Relay and Industrial Control Manufacturing
+Employee Count: 640.0
+Revenue: 173126619.0
+Year Founded: 1933.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 46
+Name: Logic-Energy
+Website: teunhulst.nl
+Country: dk
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 47
+Name: Bioener
+Website: None
+Country: dk
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2002.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 48
+Name: Fred. Olsen 1848
+Website: fredolsen1848.com
+Country: no
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Employee Count: 15.0
+Revenue: 54750063.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']
+
+Rank 49
+Name: Styri
+Website: styri.eu
+Country: no
+Primary NAICS: Engineering Services
+Employee Count: 4.0
+Revenue: 1271015.0
+Year Founded: 2025.0
+Is Public: False
+Candidate Score: 6.5
+Final Score: 10.5
+Has Uncertainty: False
+Reasons: ['base candidate score: 6.5', 'matched required term: energy']

@@ -1,0 +1,281 @@
+Rank 1
+Name: OMV
+Website: omv.ro
+Primary NAICS: Other Gasoline Stations
+Candidate Score: 2.25
+
+Rank 2
+Name: Fildas Trading
+Website: fildas.ro
+Primary NAICS: Drugs and Druggists' Sundries Merchant Wholesalers
+Candidate Score: 2.25
+
+Rank 3
+Name: Portul Constanta
+Website: portofconstantza.com
+Primary NAICS: Port and Harbor Operations
+Candidate Score: 2.25
+
+Rank 4
+Name: METRO România
+Website: metro.ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 2.25
+
+Rank 5
+Name: OSCAR
+Website: oscars.ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 2.25
+
+Rank 6
+Name: Valbur
+Website: vt-i.eu
+Primary NAICS: Industrial Supplies Merchant Wholesalers
+Candidate Score: 2.25
+
+Rank 7
+Name: Brasov Industrial Portfolio
+Website: brasov-industrialportfolio.ro
+Primary NAICS: General Warehousing and Storage
+Candidate Score: 2.25
+
+Rank 8
+Name: STILL
+Website: still.ro
+Primary NAICS: Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing
+Candidate Score: 2.25
+
+Rank 9
+Name: PulteGroup
+Website: pultegroup.com
+Primary NAICS: New Housing For-Sale Builders
+Candidate Score: 2.25
+
+Rank 10
+Name: Trusted Solutions Group
+Website: tsg28.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 2.25
+
+Rank 11
+Name: Euro-Rijn Financial Services
+Website: erfinancial.services
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 2.25
+
+Rank 12
+Name: EWP Windtower Production
+Website: None
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 2.25
+
+Rank 13
+Name: Next Fabrication
+Website: nextfabrication.com
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 2.25
+
+Rank 14
+Name: Forever 21
+Website: forever21.com
+Primary NAICS: Department Stores
+Candidate Score: 2.25
+
+Rank 15
+Name: Coles
+Website: coles.com.au
+Primary NAICS: Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+Candidate Score: 2.25
+
+Rank 16
+Name: Vetipak
+Website: None
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 2.25
+
+Rank 17
+Name: SZ SJ Packaging
+Website: szsjpackaging.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 2.25
+
+Rank 18
+Name: Booz Allen
+Website: boozallen.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.25
+
+Rank 19
+Name: Kermené
+Website: kermene.fr
+Primary NAICS: Meat Processed from Carcasses
+Candidate Score: 2.25
+
+Rank 20
+Name: Fastnet
+Website: fastnet.se
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 21
+Name: Next Fabrication
+Website: nextfabrication.com
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 2.25
+
+Rank 22
+Name: Siegfried
+Website: siegfried.ch
+Primary NAICS: Medicinal and Botanical Manufacturing
+Candidate Score: 2.25
+
+Rank 23
+Name: Rompetrol
+Website: rompetrol.com
+Primary NAICS: Petroleum Refineries
+Candidate Score: 0.75
+
+Rank 24
+Name: CBRE Romania
+Website: cbre.ro
+Primary NAICS: Offices of Real Estate Agents and Brokers
+Candidate Score: 0.75
+
+Rank 25
+Name: Compania Națională de Căi Ferate CFR
+Website: cfr.ro
+Primary NAICS: Support Activities for Rail Transportation
+Candidate Score: 0.75
+
+Rank 26
+Name: Transgaz
+Website: transgaz.ro
+Primary NAICS: Natural Gas Distribution
+Candidate Score: 0.75
+
+Rank 27
+Name: Poșta Română
+Website: posta-romana.ro
+Primary NAICS: Postal Service
+Candidate Score: 0.75
+
+Rank 28
+Name: Valtec
+Website: valtec.nl
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 0.75
+
+Rank 29
+Name: AQUA CENTER
+Website: aquacenter.ro
+Primary NAICS: Plastics Pipe and Pipe Fitting Manufacturing
+Candidate Score: 0.75
+
+Rank 30
+Name: BrandSafway
+Website: brandsafway.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 0.75
+
+Rank 31
+Name: Fluor
+Website: fluor.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 0.75
+
+Rank 32
+Name: Clayton Homes
+Website: claytonhomes.com
+Primary NAICS: New Housing For-Sale Builders
+Candidate Score: 0.75
+
+Rank 33
+Name: Skanska
+Website: skanska.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.75
+
+Rank 34
+Name: Sesame HR
+Website: sesamehr.es
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 35
+Name: Walmart
+Website: walmart.com
+Primary NAICS: Warehouse Clubs and Supercenters
+Candidate Score: 0.75
+
+Rank 36
+Name: US Foods
+Website: usfoods.com
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 0.75
+
+Rank 37
+Name: Decathlon
+Website: decathlon.com
+Primary NAICS: Sporting Goods Retailers
+Candidate Score: 0.75
+
+Rank 38
+Name: Produit en Bretagne
+Website: produitenbretagne.bzh
+Primary NAICS: Civic and Social Organizations
+Candidate Score: 0.75
+
+Rank 39
+Name: Hako
+Website: hakoaustralia.com.au
+Primary NAICS: Commercial and Service Industry Machinery Manufacturing
+Candidate Score: 0.75
+
+Rank 40
+Name: Decathlon
+Website: decathlon.it
+Primary NAICS: Sporting Goods Retailers
+Candidate Score: 0.75
+
+Rank 41
+Name: Tata Consultancy Services
+Website: tcs.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 0.75
+
+Rank 42
+Name: Telefónica Venture Builder
+Website: telefonica.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 0.75
+
+Rank 43
+Name: Mphasis
+Website: mphasis.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 0.75
+
+Rank 44
+Name: Verdantika
+Website: verdantika.co.in
+Primary NAICS: Other Management Consulting Services
+Candidate Score: 0.75
+
+Rank 45
+Name: ValfryX
+Website: valfryx.com
+Primary NAICS: Engineering Services
+Candidate Score: 0.75
+
+Rank 46
+Name: Octapharma
+Website: octapharma.com
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Candidate Score: 0.75
+
+Rank 47
+Name: MSD
+Website: msd.ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 0.75

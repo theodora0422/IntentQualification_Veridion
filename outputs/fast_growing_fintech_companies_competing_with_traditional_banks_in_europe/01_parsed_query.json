@@ -1,0 +1,29 @@
+{
+  "raw_query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+  "normalized_query": "fast-growing fintech companies competing with traditional banks in europe.",
+  "query_type": "strong-reasoning",
+  "country_codes": [],
+  "region_terms": [
+    "europe"
+  ],
+  "industry_terms": [
+    "fintech"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [],
+  "capability_terms": [],
+  "relational_terms": [
+    "competing with"
+  ],
+  "vague_terms": [
+    "fast-growing",
+    "traditional"
+  ],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

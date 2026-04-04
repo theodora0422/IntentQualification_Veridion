@@ -1,0 +1,41 @@
+Rank 1
+Name: European Pay
+Website: european-pay.fr
+Country: fr
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.75
+Final Score Before LLM: 8.75
+Final Score After LLM: 8.75
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: fintech', 'matched fintech-related signals: 4']
+
+Rank 2
+Name: SkyHarvest
+Website: skyharvest.eu
+Country: at
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.75
+Final Score Before LLM: 7.75
+Final Score After LLM: 7.75
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: fintech', 'matched fintech-related signals: 3']
+
+Rank 3
+Name: Tietoevry
+Website: tietoevry.com
+Country: fi
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 0.75
+Final Score Before LLM: 6.75
+Final Score After LLM: 6.75
+LLM Label: possible_match
+LLM Score: 0
+LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: fintech', 'matched fintech-related signals: 2']

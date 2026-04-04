@@ -1,4 +1,5 @@
 import json
+import time
 
 from src.company_schema import CompanyProfile
 from src.query_schema import QueryRepresentation
@@ -9,7 +10,7 @@ def should_use_llm(query:QueryRepresentation,reranked_candidates:list[tuple],min
     if query.query_type=="strong-reasoning":
         return True
     if len(reranked_candidates)==0:
-        return True
+        return False
     if len(reranked_candidates)<min_results_threshold:
         return True
     #if the best candidates still have very weak scores the llm should help
@@ -136,13 +137,23 @@ def llm_label_to_score(label:str):
     if label=="not_match":
         return -6.0
     return 0.0
+def safe_call_llm(call_llm,prompt):
+    for _ in range(3):
+        try:
+            return call_llm(prompt)
+        except Exception as e:
+            if "429" in str(e):
+                time.sleep(10)
+            else:
+                break
+    return None
 def rerank_with_llm(query:QueryRepresentation,reranked_candidates:list[tuple[CompanyProfile,float,float,dict,list[str]]],call_llm,top_k_for_llm:int=5):
     output=[]
     max_items=min(top_k_for_llm,len(reranked_candidates))
     for i in range(max_items):
         company,candidate_score,final_score,evaluation,reasons=reranked_candidates[i]
         prompt=build_llm_prompt(query,company,candidate_score,final_score,reasons)
-        raw_response=call_llm(prompt)
+        raw_response=safe_call_llm(call_llm,prompt)
         llm_result=parse_llm_response(raw_response)
         if "LLM unavailable" in llm_result["explanation"]:
             llm_adjusted_score = final_score

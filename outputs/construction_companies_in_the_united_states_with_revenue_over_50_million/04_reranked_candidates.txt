@@ -1,0 +1,279 @@
+Rank 1
+Name: Colaska
+Website: colaska.com
+Country: us
+Primary NAICS: Highway, Street, and Bridge Construction
+Employee Count: 78.0
+Revenue: 38803077507.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 2
+Name: BrandSafway
+Website: brandsafway.com
+Country: us
+Primary NAICS: All Other Specialty Trade Contractors
+Employee Count: None
+Revenue: 19739204162.0
+Year Founded: 2017.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 3
+Name: Fluor
+Website: fluor.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 26866.0
+Revenue: 18280370593.0
+Year Founded: 1912.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 4
+Name: Kiewit
+Website: kiewit.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 31100.0
+Revenue: 16310884187.0
+Year Founded: 1884.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 5
+Name: Lemartec
+Website: lemartec.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 170.0
+Revenue: 15779739398.0
+Year Founded: 1979.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 6
+Name: Clayton Homes
+Website: claytonhomes.com
+Country: us
+Primary NAICS: New Housing For-Sale Builders
+Employee Count: 4500.0
+Revenue: 14947799968.0
+Year Founded: 1956.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 7
+Name: Brock Group
+Website: brockgroup.com
+Country: us
+Primary NAICS: All Other Specialty Trade Contractors
+Employee Count: 11000.0
+Revenue: 13517299684.0
+Year Founded: 1940.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 8
+Name: Quanta Services
+Website: quantaservices.com
+Country: us
+Primary NAICS: Power and Communication Line and Related Structures Construction
+Employee Count: 40000.0
+Revenue: 13502659521.0
+Year Founded: 1997.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 9
+Name: BNBuilders
+Website: bnbuilders.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 750.0
+Revenue: 11795677155.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 10
+Name: EMCOR Group
+Website: emcorgroup.com
+Country: us
+Primary NAICS: Electrical Contractors and Other Wiring Installation Contractors
+Employee Count: 40400.0
+Revenue: 11695838612.0
+Year Founded: 1994.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 11
+Name: Skanska
+Website: skanska.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 33585.0
+Revenue: 11332448300.0
+Year Founded: 1887.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 12
+Name: Versar
+Website: jmwaller.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: None
+Revenue: 10811821464.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 13
+Name: Bechtel
+Website: bechtel.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 44000.0
+Revenue: 10796374639.0
+Year Founded: 1898.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 14
+Name: Halmar International
+Website: halmarinternational.com
+Country: us
+Primary NAICS: Highway, Street, and Bridge Construction
+Employee Count: 250.0
+Revenue: 10776195538.0
+Year Founded: 1962.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 15
+Name: Focus Civil Construction Group
+Website: focuscivil.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: None
+Revenue: 10705547711.0
+Year Founded: 1908.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 16
+Name: Tutor Perini
+Website: tutorperini.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 10061.0
+Revenue: 10653626941.0
+Year Founded: 1949.0
+Is Public: True
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 17
+Name: Versar
+Website: geo-marine.com
+Country: us
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Employee Count: 40.0
+Revenue: 10329342589.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 18
+Name: Trusted Solutions Group
+Website: tsg28.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 2.0
+Revenue: 9902488503.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 19
+Name: DPR Construction
+Website: dpr.com
+Country: us
+Primary NAICS: Commercial and Institutional Building Construction
+Employee Count: 9000.0
+Revenue: 9530130452.0
+Year Founded: 1990.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: construction']
+
+Rank 20
+Name: PulteGroup
+Website: pultegroup.com
+Country: us
+Primary NAICS: New Housing For-Sale Builders
+Employee Count: 7523.0
+Revenue: 10109819333.0
+Year Founded: 1950.0
+Is Public: True
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: construction']

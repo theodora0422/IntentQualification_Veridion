@@ -1,0 +1,233 @@
+Rank 1
+Name: Fildas Trading
+Website: fildas.ro
+Primary NAICS: Drugs and Druggists' Sundries Merchant Wholesalers
+Candidate Score: 2.25
+
+Rank 2
+Name: Silver Spur
+Website: silverspurcorp.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 2.25
+
+Rank 3
+Name: YONWOO
+Website: yonwookorea.com
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 2.25
+
+Rank 4
+Name: Novartis
+Website: novartis.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 5
+Name: Lonza
+Website: lonza.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 6
+Name: Nestlé Health Science
+Website: nestlehealthscience.com
+Primary NAICS: Medicinal and Botanical Manufacturing
+Candidate Score: 2.25
+
+Rank 7
+Name: Ferring
+Website: ferring.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 8
+Name: Galderma
+Website: galderma.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 9
+Name: Sumitomo Pharma Switzerland
+Website: sumitomo-pharma.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 10
+Name: Lonza Capsules & Health Ingredients
+Website: capsugel.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 11
+Name: Siegfried
+Website: siegfried.ch
+Primary NAICS: Medicinal and Botanical Manufacturing
+Candidate Score: 2.25
+
+Rank 12
+Name: PSI CRO
+Website: psi-cro.com
+Primary NAICS: Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)
+Candidate Score: 2.25
+
+Rank 13
+Name: Acino
+Website: acino.swiss
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 14
+Name: CordenPharma
+Website: cordenpharma.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 15
+Name: PolyPeptide
+Website: polypeptide.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 16
+Name: Idorsia
+Website: idorsia.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 17
+Name: IBSA
+Website: ibsagroup.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 18
+Name: Bachem
+Website: bachem.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 19
+Name: Alcon
+Website: aeriepharma.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 20
+Name: CARBOGEN AMCIS
+Website: carbogen-amcis.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 21
+Name: OM Pharma
+Website: ompharma.com
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Candidate Score: 2.25
+
+Rank 22
+Name: MSD
+Website: msd.ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 23
+Name: AbelaPharm
+Website: abelapharm.ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 24
+Name: Debiopharm
+Website: debiopharm.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 25
+Name: Helsinn
+Website: helsinn.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 26
+Name: TRB Chemedica
+Website: trbchemedica.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 27
+Name: Tillotts Pharma
+Website: tillotts.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 28
+Name: KD Pharma Group
+Website: kdpharmagroup.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 29
+Name: A. Menarini
+Website: menarini.ch
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 30
+Name: Brock Group
+Website: brockgroup.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 0.75
+
+Rank 31
+Name: Rantum Capital
+Website: rantumcapital.de
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: 0.75
+
+Rank 32
+Name: OLYMPIAN OPTIMIZATIONS
+Website: olympianopt.com
+Primary NAICS: Engineering Services
+Candidate Score: 0.75
+
+Rank 33
+Name: Octapharma
+Website: octapharma.com
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Candidate Score: 0.75
+
+Rank 34
+Name: Stallergenes Greer
+Website: stallergenesgreer.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 0.75
+
+Rank 35
+Name: Teoxane
+Website: teoxane.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 0.75
+
+Rank 36
+Name: Drugs for Neglected Diseases initiative
+Website: dndi.org
+Primary NAICS: Research and Development in Biotechnology (except Nanobiotechnology)
+Candidate Score: 0.75
+
+Rank 37
+Name: CRISPR Therapeutics
+Website: crisprtx.com
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Candidate Score: 0.75
+
+Rank 38
+Name: Celonic
+Website: celonic.com
+Primary NAICS: Biological Product (except Diagnostic) Manufacturing
+Candidate Score: 0.75
+
+Rank 39
+Name: ADC Therapeutics
+Website: adctherapeutics.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 0.75

@@ -1,0 +1,209 @@
+Rank 1
+Name: OMV
+Website: omv.ro
+Country: ro
+Primary NAICS: Other Gasoline Stations
+Employee Count: None
+Revenue: 6542287157.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 2
+Name: Fildas Trading
+Website: fildas.ro
+Country: ro
+Primary NAICS: Drugs and Druggists' Sundries Merchant Wholesalers
+Employee Count: 838.0
+Revenue: 3492536857.0
+Year Founded: 1991.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 3
+Name: Portul Constanta
+Website: portofconstantza.com
+Country: ro
+Primary NAICS: Port and Harbor Operations
+Employee Count: 6000.0
+Revenue: 1727732794.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 4
+Name: METRO România
+Website: metro.ro
+Country: ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Employee Count: 810.0
+Revenue: 1300592908.0
+Year Founded: 1996.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 5
+Name: OSCAR
+Website: oscars.ro
+Country: ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Employee Count: 488.0
+Revenue: 1097857008.0
+Year Founded: 2001.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 6
+Name: Valbur
+Website: vt-i.eu
+Country: ro
+Primary NAICS: Industrial Supplies Merchant Wholesalers
+Employee Count: None
+Revenue: 1021169365.0
+Year Founded: 2008.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 7
+Name: Brasov Industrial Portfolio
+Website: brasov-industrialportfolio.ro
+Country: ro
+Primary NAICS: General Warehousing and Storage
+Employee Count: None
+Revenue: 1000000000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 8
+Name: STILL
+Website: still.ro
+Country: ro
+Primary NAICS: Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing
+Employee Count: None
+Revenue: 840574450.0
+Year Founded: 1919.0
+Is Public: False
+Candidate Score: 2.25
+Final Score: 6.25
+Has Uncertainty: False
+Reasons: ['base candidate score: 2.25', 'matched required term: logistics']
+
+Rank 9
+Name: Rompetrol
+Website: rompetrol.com
+Country: ro
+Primary NAICS: Petroleum Refineries
+Employee Count: 7000.0
+Revenue: 12664964365.0
+Year Founded: 1974.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: logistics']
+
+Rank 10
+Name: CBRE Romania
+Website: cbre.ro
+Country: ro
+Primary NAICS: Offices of Real Estate Agents and Brokers
+Employee Count: 92.0
+Revenue: 9568739216.0
+Year Founded: 2008.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: logistics']
+
+Rank 11
+Name: Compania Națională de Căi Ferate CFR
+Website: cfr.ro
+Country: ro
+Primary NAICS: Support Activities for Rail Transportation
+Employee Count: 54000.0
+Revenue: 5290917696.0
+Year Founded: 1880.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: logistics']
+
+Rank 12
+Name: Transgaz
+Website: transgaz.ro
+Country: ro
+Primary NAICS: Natural Gas Distribution
+Employee Count: 4628.0
+Revenue: 1211108198.0
+Year Founded: 2000.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: logistics']
+
+Rank 13
+Name: Poșta Română
+Website: posta-romana.ro
+Country: ro
+Primary NAICS: Postal Service
+Employee Count: 25000.0
+Revenue: 1161768432.0
+Year Founded: 1862.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: logistics']
+
+Rank 14
+Name: Valtec
+Website: valtec.nl
+Country: ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Employee Count: None
+Revenue: 1035538334.0
+Year Founded: None
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: logistics']
+
+Rank 15
+Name: AQUA CENTER
+Website: aquacenter.ro
+Country: ro
+Primary NAICS: Plastics Pipe and Pipe Fitting Manufacturing
+Employee Count: None
+Revenue: 762500000.0
+Year Founded: 2004.0
+Is Public: False
+Candidate Score: 0.75
+Final Score: 4.75
+Has Uncertainty: False
+Reasons: ['base candidate score: 0.75', 'matched required term: logistics']

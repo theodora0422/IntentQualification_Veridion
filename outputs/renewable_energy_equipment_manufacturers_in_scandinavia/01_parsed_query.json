@@ -1,0 +1,34 @@
+{
+  "raw_query": "Renewable energy equipment manufacturers in Scandinavia",
+  "normalized_query": "renewable energy equipment manufacturers in scandinavia",
+  "query_type": "mixed",
+  "country_codes": [
+    "dk",
+    "no",
+    "se",
+    "fi",
+    "is"
+  ],
+  "region_terms": [
+    "scandinavia"
+  ],
+  "industry_terms": [
+    "energy"
+  ],
+  "business_model_terms": [
+    "manufacturers"
+  ],
+  "target_markets_terms": [
+    "energy"
+  ],
+  "capability_terms": [],
+  "relational_terms": [],
+  "vague_terms": [],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

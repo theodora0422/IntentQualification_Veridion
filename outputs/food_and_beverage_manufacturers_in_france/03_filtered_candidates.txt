@@ -1,0 +1,293 @@
+Rank 1
+Name: La Péro
+Website: la-pero.fr
+Country: fr
+Primary NAICS: Wineries
+Employee Count: 3.0
+Revenue: 823062.0
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 6.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 2
+Name: Famille Pouille
+Website: pouille.eu
+Country: fr
+Primary NAICS: All Other Miscellaneous Food Manufacturing
+Employee Count: None
+Revenue: 200000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 6.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 3
+Name: Kermené
+Website: kermene.fr
+Country: fr
+Primary NAICS: Meat Processed from Carcasses
+Employee Count: 1013.0
+Revenue: 1288290730.0
+Year Founded: 1978.0
+Is Public: False
+Candidate Score: 6.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 4
+Name: L'Essinganaise
+Website: lessinganaise.com
+Country: fr
+Primary NAICS: Specialty Canning
+Employee Count: None
+Revenue: 200000.0
+Year Founded: None
+Is Public: False
+Candidate Score: 5.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 5
+Name: LA MULTILOCALE
+Website: lamultilocale.org
+Country: fr
+Primary NAICS: All Other Miscellaneous Food Manufacturing
+Employee Count: None
+Revenue: 674028.0
+Year Founded: None
+Is Public: False
+Candidate Score: 5.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 6
+Name: Domaine Godeau
+Website: None
+Country: fr
+Primary NAICS: Wineries
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 5.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 7
+Name: Geyer
+Website: None
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 1895.0
+Is Public: False
+Candidate Score: 5.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 8
+Name: Dechelette Estate
+Website: None
+Country: fr
+Primary NAICS: Wineries
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 5.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 9
+Name: Paniers d'Eve
+Website: None
+Country: fr
+Primary NAICS: Fruit and Vegetable Canning
+Employee Count: None
+Revenue: None
+Year Founded: None
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 10
+Name: Yumi
+Website: yumi.fr
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 57.0
+Revenue: 19324067.0
+Year Founded: 2014.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 11
+Name: MILHADE Vins & Spiritueux
+Website: None
+Country: fr
+Primary NAICS: Wineries
+Employee Count: None
+Revenue: None
+Year Founded: 1938.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 12
+Name: La Limonaderie de Paris
+Website: lalimonaderiedeparis.com
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 4.0
+Revenue: 5436390.0
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 13
+Name: Auvergnat Cola
+Website: auvergnatcola.com
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: None
+Revenue: 34072143.0
+Year Founded: None
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 14
+Name: Fermenting & Co
+Website: fermentingandco.fr
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 3.0
+Revenue: 4448170.0
+Year Founded: 2021.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 15
+Name: Conserverie Fourmi
+Website: conserverie-fourmi.fr
+Country: fr
+Primary NAICS: Fruit and Vegetable Canning
+Employee Count: 2.0
+Revenue: 712711.0
+Year Founded: 2020.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 16
+Name: GreenLeaf Mate
+Website: greenleaf-mate.com
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: None
+Revenue: None
+Year Founded: 2023.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 17
+Name: Elixia
+Website: elixia.bio
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: None
+Revenue: 875000.0
+Year Founded: 1856.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 18
+Name: Club-Mate
+Website: club-mate.fr
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: 19.0
+Revenue: 56786905.0
+Year Founded: 2014.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 19
+Name: Riviera Kombucha
+Website: rivierakombucha.com
+Country: fr
+Primary NAICS: Soft Drink Manufacturing
+Employee Count: None
+Revenue: 4540894.0
+Year Founded: 2019.0
+Is Public: False
+Candidate Score: 3.75
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 20
+Name: Produit en Bretagne
+Website: produitenbretagne.bzh
+Country: fr
+Primary NAICS: Civic and Social Organizations
+Employee Count: 1.0
+Revenue: 12910982151.0
+Year Founded: 1993.0
+Is Public: False
+Candidate Score: 2.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']
+
+Rank 21
+Name: INOU
+Website: inou.fr
+Country: fr
+Primary NAICS: Fruit and Vegetable Canning
+Employee Count: None
+Revenue: 14930077.0
+Year Founded: None
+Is Public: False
+Candidate Score: 2.25
+Passed All: True
+Has Uncertainty: False
+Reasons: ['country match', 'no public/private constraint', 'no minimum employee constraint', 'no maximum employee constraint', 'no minimum revenue constraint', 'no maximum revenue constraint', 'no minimum founded year constraint', 'no maximum founded year constraint']

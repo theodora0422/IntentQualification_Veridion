@@ -1,0 +1,599 @@
+Rank 1
+Name: YONWOO
+Website: yonwookorea.com
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 10.25
+
+Rank 2
+Name: Crystal International
+Website: crystalintl.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 9.5
+
+Rank 3
+Name: SHEACK Packaging
+Website: sheackpkg.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 9.5
+
+Rank 4
+Name: None
+Website: seycosmetics.co.uk
+Primary NAICS: Toilet Preparation Manufacturing
+Candidate Score: 9.5
+
+Rank 5
+Name: Flextribe
+Website: flextribe.co
+Primary NAICS: Other Paperboard Container Manufacturing
+Candidate Score: 9.5
+
+Rank 6
+Name: Sunshine Packaging
+Website: hzshengsha.com
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 9.5
+
+Rank 7
+Name: Central de Envasados
+Website: centralenvasados.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 8.75
+
+Rank 8
+Name: Shenzhen Itop Cosmetic Packaging
+Website: itoppacking.com
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 8.75
+
+Rank 9
+Name: Standard Mold
+Website: standardmold.co.kr
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 8.75
+
+Rank 10
+Name: Fildas Trading
+Website: fildas.ro
+Primary NAICS: Drugs and Druggists' Sundries Merchant Wholesalers
+Candidate Score: 7.25
+
+Rank 11
+Name: BAOLILONG GLASS PACKAGING
+Website: baolilongglasspackaging.com
+Primary NAICS: Glass Container Manufacturing
+Candidate Score: 7.25
+
+Rank 12
+Name: Minh Trang Packaging
+Website: xuongchailominhtrang.com
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 7.25
+
+Rank 13
+Name: Silver Spur
+Website: silverspurcorp.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 7.25
+
+Rank 14
+Name: Yijie Packaging
+Website: yijiepackaging.en.alibaba.com
+Primary NAICS: Glass Container Manufacturing
+Candidate Score: 7.25
+
+Rank 15
+Name: Wenjing Packaging
+Website: wenjingpack.com
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 6.5
+
+Rank 16
+Name: Shanghai Bochen Cosmetic Packaging
+Website: cncosmeticbottles.com
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 6.5
+
+Rank 17
+Name: Ningbo Onson
+Website: onsonpackaging.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 6.5
+
+Rank 18
+Name: Bachem
+Website: bachem.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 6.5
+
+Rank 19
+Name: Avery
+Website: avery.com
+Primary NAICS: Stationery Product Manufacturing
+Candidate Score: 5.25
+
+Rank 20
+Name: Vetipak
+Website: None
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 5.25
+
+Rank 21
+Name: Siegfried
+Website: siegfried.ch
+Primary NAICS: Medicinal and Botanical Manufacturing
+Candidate Score: 5.25
+
+Rank 22
+Name: Aurelo Packaging Co
+Website: aurelopackaging.com.au
+Primary NAICS: Glass Container Manufacturing
+Candidate Score: 4.5
+
+Rank 23
+Name: Teoxane
+Website: teoxane.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 4.25
+
+Rank 24
+Name: Kermené
+Website: kermene.fr
+Primary NAICS: Meat Processed from Carcasses
+Candidate Score: 3.75
+
+Rank 25
+Name: CordenPharma
+Website: cordenpharma.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 3.75
+
+Rank 26
+Name: PolyPeptide
+Website: polypeptide.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 3.5
+
+Rank 27
+Name: Prutul
+Website: prutul.ro
+Primary NAICS: Fats and Oils Refining and Blending
+Candidate Score: 3.0
+
+Rank 28
+Name: Decathlon
+Website: decathlon.com
+Primary NAICS: Sporting Goods Retailers
+Candidate Score: 3.0
+
+Rank 29
+Name: Gillette
+Website: gillette.com
+Primary NAICS: All Other Miscellaneous Manufacturing
+Candidate Score: 3.0
+
+Rank 30
+Name: Produit en Bretagne
+Website: produitenbretagne.bzh
+Primary NAICS: Civic and Social Organizations
+Candidate Score: 3.0
+
+Rank 31
+Name: DrinkAriZona
+Website: drinkarizona.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.0
+
+Rank 32
+Name: PEZ Candy
+Website: pez.com
+Primary NAICS: Nonchocolate Confectionery Manufacturing
+Candidate Score: 3.0
+
+Rank 33
+Name: Lesopack Cos Packaging
+Website: cospackaging.com.au
+Primary NAICS: Plastics Bottle Manufacturing
+Candidate Score: 3.0
+
+Rank 34
+Name: SZ SJ Packaging
+Website: szsjpackaging.com
+Primary NAICS: All Other Plastics Product Manufacturing
+Candidate Score: 3.0
+
+Rank 35
+Name: Tietoevry
+Website: tietoevry.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 3.0
+
+Rank 36
+Name: Auvergnat Cola
+Website: auvergnatcola.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.0
+
+Rank 37
+Name: GreenLeaf Mate
+Website: greenleaf-mate.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.0
+
+Rank 38
+Name: Club-Mate
+Website: club-mate.fr
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 3.0
+
+Rank 39
+Name: KD Pharma Group
+Website: kdpharmagroup.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 3.0
+
+Rank 40
+Name: Rompetrol
+Website: rompetrol.ro
+Primary NAICS: Petroleum Refineries
+Candidate Score: 2.25
+
+Rank 41
+Name: TIMAC AGRO
+Website: timacagro.com
+Primary NAICS: Nitrogenous Fertilizer Manufacturing
+Candidate Score: 2.25
+
+Rank 42
+Name: OMV
+Website: omv.ro
+Primary NAICS: Other Gasoline Stations
+Candidate Score: 2.25
+
+Rank 43
+Name: Bunge Romania
+Website: bunge-romania.ro
+Primary NAICS: Soybean and Other Oilseed Processing
+Candidate Score: 2.25
+
+Rank 44
+Name: Romgaz
+Website: romgaz.ro
+Primary NAICS: Natural Gas Extraction
+Candidate Score: 2.25
+
+Rank 45
+Name: METRO România
+Website: metro.ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 2.25
+
+Rank 46
+Name: OSCAR
+Website: oscars.ro
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 2.25
+
+Rank 47
+Name: AQUA CENTER
+Website: aquacenter.ro
+Primary NAICS: Plastics Pipe and Pipe Fitting Manufacturing
+Candidate Score: 2.25
+
+Rank 48
+Name: BrandSafway
+Website: brandsafway.com
+Primary NAICS: All Other Specialty Trade Contractors
+Candidate Score: 2.25
+
+Rank 49
+Name: Kiewit
+Website: kiewit.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 2.25
+
+Rank 50
+Name: EMCOR Group
+Website: emcorgroup.com
+Primary NAICS: Electrical Contractors and Other Wiring Installation Contractors
+Candidate Score: 2.25
+
+Rank 51
+Name: PulteGroup
+Website: pultegroup.com
+Primary NAICS: New Housing For-Sale Builders
+Candidate Score: 2.25
+
+Rank 52
+Name: Ripley Decision Advantage
+Website: ripleydecisionadvantage.net
+Primary NAICS: Custom Computer Programming Services
+Candidate Score: 2.25
+
+Rank 53
+Name: Kortical
+Website: kortical.com
+Primary NAICS: Software Publishers
+Candidate Score: 2.25
+
+Rank 54
+Name: EWP Windtower Production
+Website: None
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 2.25
+
+Rank 55
+Name: Rögle Vindkraftpark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 56
+Name: Norhybrid Renewables
+Website: norhybrid.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 57
+Name: Naust Marine
+Website: naust.is
+Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
+Candidate Score: 2.25
+
+Rank 58
+Name: Varmalämmitys
+Website: varmalammitys.fi
+Primary NAICS: Heating Equipment (except Warm Air Furnaces) Manufacturing
+Candidate Score: 2.25
+
+Rank 59
+Name: CIRKEL Energi
+Website: cirkelenergi.dk
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Candidate Score: 2.25
+
+Rank 60
+Name: Erikshester Vindpark
+Website: vindparken.se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 61
+Name: The Home Depot
+Website: homedepot.com
+Primary NAICS: Home Centers
+Candidate Score: 2.25
+
+Rank 62
+Name: US Foods
+Website: usfoods.com
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 2.25
+
+Rank 63
+Name: Forever 21
+Website: forever21.com
+Primary NAICS: Department Stores
+Candidate Score: 2.25
+
+Rank 64
+Name: Coles
+Website: coles.com.au
+Primary NAICS: Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+Candidate Score: 2.25
+
+Rank 65
+Name: Hy-Vee
+Website: hy-vee.com
+Primary NAICS: Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+Candidate Score: 2.25
+
+Rank 66
+Name: Decathlon
+Website: decathlon.it
+Primary NAICS: Sporting Goods Retailers
+Candidate Score: 2.25
+
+Rank 67
+Name: Harbor Freight
+Website: harborfreight.com
+Primary NAICS: Hardware Retailers
+Candidate Score: 2.25
+
+Rank 68
+Name: Aromas Coffee Roasters
+Website: aromas.com.au
+Primary NAICS: Coffee and Tea Manufacturing
+Candidate Score: 2.25
+
+Rank 69
+Name: Genpact
+Website: genpact.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.25
+
+Rank 70
+Name: Booz Allen
+Website: boozallen.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.25
+
+Rank 71
+Name: RX-WATERTEC
+Website: rx-watertec.com
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 72
+Name: Verdantika
+Website: verdantika.co.in
+Primary NAICS: Other Management Consulting Services
+Candidate Score: 2.25
+
+Rank 73
+Name: BrightLNK
+Website: brightlnk.com
+Primary NAICS: Engineering Services
+Candidate Score: 2.25
+
+Rank 74
+Name: Asvata
+Website: asvata.com
+Primary NAICS: Environmental Consulting Services
+Candidate Score: 2.25
+
+Rank 75
+Name: Rongbai Lithium Battery
+Website: ronbaymat.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 2.25
+
+Rank 76
+Name: Altmin
+Website: altmin.in
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 2.25
+
+Rank 77
+Name: Dongdao New Energy
+Website: dongdaochina.cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 2.25
+
+Rank 78
+Name: Hunan Yueneng New Energy Battery Material Co., Ltd.
+Website: hunanyuneng.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 2.25
+
+Rank 79
+Name: Nanjing Blue Solid New Energy
+Website: liongo.com.cn
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 2.25
+
+Rank 80
+Name: Charge CCCV
+Website: chargecccv.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 2.25
+
+Rank 81
+Name: Nascent Materials
+Website: nascentmaterials.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 2.25
+
+Rank 82
+Name: Greenbatt Technology
+Website: greenbatt.ch
+Primary NAICS: Battery Manufacturing
+Candidate Score: 2.25
+
+Rank 83
+Name: You Shan Technology
+Website: youshan.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 2.25
+
+Rank 84
+Name: ReFire_ev
+Website: None
+Primary NAICS: Battery Manufacturing
+Candidate Score: 2.25
+
+Rank 85
+Name: Stratus Materials
+Website: stratusmaterials.com
+Primary NAICS: Other Basic Inorganic Chemical Manufacturing
+Candidate Score: 2.25
+
+Rank 86
+Name: Xinliyuan
+Website: jsxlytech.com
+Primary NAICS: Battery Manufacturing
+Candidate Score: 2.25
+
+Rank 87
+Name: La Péro
+Website: la-pero.fr
+Primary NAICS: Wineries
+Candidate Score: 2.25
+
+Rank 88
+Name: Riviera Kombucha
+Website: rivierakombucha.com
+Primary NAICS: Soft Drink Manufacturing
+Candidate Score: 2.25
+
+Rank 89
+Name: Erikshester Vindpark
+Website: vindparken.se
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 90
+Name: Norhybrid Renewables
+Website: norhybrid.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 91
+Name: Rögle Vindkraftpark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 2.25
+
+Rank 92
+Name: SVENO
+Website: sveno.no
+Primary NAICS: Fabricated Structural Metal Manufacturing
+Candidate Score: 2.25
+
+Rank 93
+Name: CIRKEL Energi
+Website: cirkelenergi.dk
+Primary NAICS: Semiconductor and Related Device Manufacturing
+Candidate Score: 2.25
+
+Rank 94
+Name: Lonza Capsules & Health Ingredients
+Website: capsugel.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 2.25
+
+Rank 95
+Name: CARBOGEN AMCIS
+Website: carbogen-amcis.com
+Primary NAICS: Pharmaceutical Preparation Manufacturing
+Candidate Score: 1.5
+
+Rank 96
+Name: Rompetrol
+Website: rompetrol.com
+Primary NAICS: Petroleum Refineries
+Candidate Score: 0.75
+
+Rank 97
+Name: Portul Constanta
+Website: portofconstantza.com
+Primary NAICS: Port and Harbor Operations
+Candidate Score: 0.75
+
+Rank 98
+Name: Valtec
+Website: valtec.nl
+Primary NAICS: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+Candidate Score: 0.75
+
+Rank 99
+Name: Fluor
+Website: fluor.com
+Primary NAICS: Other Heavy and Civil Engineering Construction
+Candidate Score: 0.75
+
+Rank 100
+Name: Skanska
+Website: skanska.com
+Primary NAICS: Commercial and Institutional Building Construction
+Candidate Score: 0.75

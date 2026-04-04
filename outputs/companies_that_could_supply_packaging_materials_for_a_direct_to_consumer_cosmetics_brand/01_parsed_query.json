@@ -1,0 +1,31 @@
+{
+  "raw_query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+  "normalized_query": "companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+  "query_type": "strong-reasoning",
+  "country_codes": [],
+  "region_terms": [],
+  "industry_terms": [
+    "cosmetics"
+  ],
+  "business_model_terms": [],
+  "target_markets_terms": [
+    "cosmetics"
+  ],
+  "capability_terms": [
+    "packaging",
+    "packaging materials"
+  ],
+  "relational_terms": [
+    "supply",
+    "could supply",
+    "for a"
+  ],
+  "vague_terms": [],
+  "is_public": null,
+  "min_employee_count": null,
+  "max_employee_count": null,
+  "min_revenue": null,
+  "max_revenue": null,
+  "min_year_founded": null,
+  "max_year_founded": null
+}

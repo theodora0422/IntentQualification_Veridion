@@ -1,0 +1,599 @@
+Rank 1
+Name: Tata Consultancy Services
+Website: tcs.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 2
+Name: Concentrix
+Website: concentrix.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 3
+Name: Capgemini
+Website: capgemini.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 4
+Name: Telefónica Venture Builder
+Website: telefonica.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 5
+Name: EPAM
+Website: epam.com
+Primary NAICS: Custom Computer Programming Services
+Candidate Score: 4.25
+
+Rank 6
+Name: Leidos
+Website: leidos.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 7
+Name: Booz Allen
+Website: boozallen.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 8
+Name: Globant
+Website: globant.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 9
+Name: ASGN
+Website: asgn.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 10
+Name: CACI
+Website: caci.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 4.25
+
+Rank 11
+Name: Genpact
+Website: genpact.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.75
+
+Rank 12
+Name: Fujitsu
+Website: fujitsu.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.75
+
+Rank 13
+Name: CGI
+Website: cgi.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.75
+
+Rank 14
+Name: Tietoevry
+Website: tietoevry.com
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 2.75
+
+Rank 15
+Name: METRO România
+Website: metro.ro
+Primary NAICS: General Line Grocery Merchant Wholesalers
+Candidate Score: 0.75
+
+Rank 16
+Name: EasyKassa
+Website: easykassa.at
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: 0.75
+
+Rank 17
+Name: Bizneo HR
+Website: bizneo.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 18
+Name: Sincron HR
+Website: sincronhr.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 19
+Name: BCS HR Software
+Website: bcs.nl
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 20
+Name: BambooHR
+Website: bamboohr.eu
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 21
+Name: Pandapé
+Website: pandape.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 22
+Name: Kapsoon
+Website: kapsoon.io
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 23
+Name: Ciphr
+Website: ciphr.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 24
+Name: Asys
+Website: asys.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 25
+Name: Personio
+Website: None
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 26
+Name: quarksUp
+Website: quarksup.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 27
+Name: Novative
+Website: novative.com
+Primary NAICS: Human Resources Consulting Services
+Candidate Score: 0.75
+
+Rank 28
+Name: NOVRH
+Website: novrh.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 29
+Name: ASCIA
+Website: ascia.pt
+Primary NAICS: Custom Computer Programming Services
+Candidate Score: 0.75
+
+Rank 30
+Name: Global HR
+Website: globalhruk.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 31
+Name: Toba HR Solutions
+Website: tobahrsolutions.be
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 32
+Name: Factorial
+Website: factorialhr.de
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 33
+Name: Visma YouServe
+Website: youserve.nl
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 34
+Name: HR Campus
+Website: hr-campus.ch
+Primary NAICS: Human Resources Consulting Services
+Candidate Score: 0.75
+
+Rank 35
+Name: Sesame HR
+Website: sesamehr.pt
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 36
+Name: Virtualia
+Website: virtualia.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 37
+Name: Kammi
+Website: kammi.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 38
+Name: ICON HR
+Website: iconhrsoftware.azurewebsites.net
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 39
+Name: Cantoriel
+Website: cantoriel.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 40
+Name: Moorepay
+Website: moorepay.co.uk
+Primary NAICS: Payroll Services
+Candidate Score: 0.75
+
+Rank 41
+Name: Foederis
+Website: foederis.ch
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 42
+Name: Buzz HR
+Website: buzzhr.co.uk
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 43
+Name: Crocodile
+Website: crocodile.hr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 44
+Name: Sesame HR
+Website: sesamehr.es
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 45
+Name: Sesame HR
+Website: sesamehr.com.br
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 46
+Name: Paychex
+Website: paychex.de
+Primary NAICS: Payroll Services
+Candidate Score: 0.75
+
+Rank 47
+Name: Sun RH
+Website: sun-e.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 48
+Name: HRappka
+Website: kalendarzkadrowego.pl
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 49
+Name: Educos
+Website: educos.eu
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 50
+Name: Staff & Go
+Website: staffngo.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 51
+Name: Trakstar
+Website: trakstar.nl
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 52
+Name: IguanaHR
+Website: iguanahr.co.uk
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 53
+Name: Tenea Talent
+Website: teneatalent.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 54
+Name: uMan Xpert
+Website: uman.pt
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 55
+Name: Lucca
+Website: lucca-software.es
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 56
+Name: Sesame HR
+Website: sesamehr.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 57
+Name: INPACT
+Website: inpact-paie.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 58
+Name: Platfohrm
+Website: platfohrm.com
+Primary NAICS: Human Resources Consulting Services
+Candidate Score: 0.75
+
+Rank 59
+Name: Zellis
+Website: zellis.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 60
+Name: Jooma
+Website: jooma-paye.fr
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 61
+Name: Team2go
+Website: team2go.es
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 62
+Name: HRWare Consulting
+Website: hrware.de
+Primary NAICS: Computer Systems Design Services
+Candidate Score: 0.75
+
+Rank 63
+Name: UK HR Cloud
+Website: ukhrcloud.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 64
+Name: Safebridge
+Website: safebridge.es
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 65
+Name: BrightPay
+Website: brightpay.ie
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 66
+Name: Microtis
+Website: microtis.lu
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 67
+Name: DataTorch
+Website: datatorch.io
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 68
+Name: IML4E
+Website: iml4e.org
+Primary NAICS: Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)
+Candidate Score: 0.75
+
+Rank 69
+Name: feder8.ai
+Website: None
+Primary NAICS: Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)
+Candidate Score: 0.75
+
+Rank 70
+Name: Knowledgator
+Website: knowledgator.com
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 71
+Name: Infer Systems
+Website: infer.systems
+Primary NAICS: Software Publishers
+Candidate Score: 0.75
+
+Rank 72
+Name: Dylan Zeigler
+Website: dylanzeigler.com
+Primary NAICS: Custom Computer Programming Services
+Candidate Score: 0.75
+
+Rank 73
+Name: Sol Industries
+Website: sol-ind.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 0.75
+
+Rank 74
+Name: Envision Energy Denmark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 0.75
+
+Rank 75
+Name: Dell Technologies
+Website: dell.com
+Primary NAICS: Electronic Computer Manufacturing
+Candidate Score: 0.75
+
+Rank 76
+Name: Avery
+Website: avery.com
+Primary NAICS: Stationery Product Manufacturing
+Candidate Score: 0.75
+
+Rank 77
+Name: Yeşil Bir Gelecek
+Website: yesilbirgelecek.com
+Primary NAICS: Environmental Consulting Services
+Candidate Score: 0.75
+
+Rank 78
+Name: Volta Capital
+Website: voltacapital.it
+Primary NAICS: Other Scientific and Technical Consulting Services
+Candidate Score: 0.75
+
+Rank 79
+Name: GT Solve
+Website: globaltechsolve.com
+Primary NAICS: Engineering Services
+Candidate Score: 0.75
+
+Rank 80
+Name: NextGEN Energy
+Website: nextgen-energy.eu
+Primary NAICS: Engineering Services
+Candidate Score: 0.75
+
+Rank 81
+Name: Envision Energy Denmark
+Website: None
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 0.75
+
+Rank 82
+Name: Sol Industries
+Website: sol-ind.com
+Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
+Candidate Score: 0.75
+
+Rank 83
+Name: SkyHarvest
+Website: skyharvest.eu
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: -0.75
+
+Rank 84
+Name: Aircash
+Website: aircash.eu
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: -0.75
+
+Rank 85
+Name: New Payment Innovation
+Website: npi.ie
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: -0.75
+
+Rank 86
+Name: Phin
+Website: phintech.de
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: -0.75
+
+Rank 87
+Name: Folio
+Website: folio.no
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: -0.75
+
+Rank 88
+Name: Ariv Pay
+Website: arivpay.com
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: -0.75
+
+Rank 89
+Name: Rantum Capital
+Website: rantumcapital.de
+Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
+Candidate Score: -0.75
+
+Rank 90
+Name: European Pay
+Website: european-pay.fr
+Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
+Candidate Score: -0.75
+
+Rank 91
+Name: TrueFoundry
+Website: true-foundry.com
+Primary NAICS: Software Publishers
+Candidate Score: -0.75
+
+Rank 92
+Name: Lumeros AI
+Website: lumeros.ai
+Primary NAICS: Custom Computer Programming Services
+Candidate Score: -0.75
+
+Rank 93
+Name: Simplismart
+Website: simplismart.ai
+Primary NAICS: Custom Computer Programming Services
+Candidate Score: -0.75
+
+Rank 94
+Name: ZenML
+Website: zenml.io
+Primary NAICS: Software Publishers
+Candidate Score: -0.75
+
+Rank 95
+Name: Chalk
+Website: chalk.ai
+Primary NAICS: Software Publishers
+Candidate Score: -0.75
+
+Rank 96
+Name: Katana ML
+Website: katanaml.io
+Primary NAICS: Software Publishers
+Candidate Score: -0.75
+
+Rank 97
+Name: trainML
+Website: trainml.ai
+Primary NAICS: Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
+Candidate Score: -0.75
+
+Rank 98
+Name: Hexo AI
+Website: hexo.ai
+Primary NAICS: Software Publishers
+Candidate Score: -0.75
+
+Rank 99
+Name: Wizard.AI
+Website: thewizard.ai
+Primary NAICS: Software Publishers
+Candidate Score: -0.75
+
+Rank 100
+Name: Aquarium
+Website: aquariumlearning.com
+Primary NAICS: Software Publishers
+Candidate Score: -0.75
