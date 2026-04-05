@@ -183,7 +183,7 @@ def main():
         print(f"reranked_candidates: {len(reranked_candidates)}")
         print_reranked_candidates(parsed_query,reranked_candidates)
         if should_use_llm(parsed_query,reranked_candidates):
-            llm_candidates=rerank_with_llm(parsed_query,reranked_candidates,call_openai_llm_with_json_schema,3)
+            llm_candidates=rerank_with_llm(parsed_query,reranked_candidates,call_openai_llm_with_json_schema,1)
             write_text(os.path.join(query_dir,"05_llm_reranked_candidates.txt"),serialize_llm_reranked_candidates(llm_candidates,top_k=100))
             print_llm_reranked_candidates(parsed_query,llm_candidates,top_k=5)
         else:

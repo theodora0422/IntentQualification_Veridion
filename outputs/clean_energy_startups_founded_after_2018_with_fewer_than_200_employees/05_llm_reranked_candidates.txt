@@ -5,37 +5,9 @@ Country: no
 Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
 Candidate Score: 7.25
 Final Score Before LLM: 11.25
-Final Score After LLM: 11.25
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 7.25', 'matched required term: energy']
-
-Rank 2
-Name: Styri
-Website: styri.eu
-Country: no
-Primary NAICS: Engineering Services
-Candidate Score: 7.25
-Final Score Before LLM: 11.25
-Final Score After LLM: 11.25
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 7.25', 'matched required term: energy']
-
-Rank 3
-Name: Norhybrid Renewables
-Website: norhybrid.com
-Country: no
-Primary NAICS: Turbine and Turbine Generator Set Units Manufacturing
-Candidate Score: 7.25
-Final Score Before LLM: 11.25
-Final Score After LLM: 11.25
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Final Score After LLM: 19.25
+LLM Label: strong_match
+LLM Score: 10
+LLM Explanation: Norhybrid Renewables is a clean energy company focused on renewable solutions, founded in 2020 (after 2018), and has 10 employees (fewer than 200). All query criteria are perfectly met.
 Has Uncertainty: False
 Reasons: ['base candidate score: 7.25', 'matched required term: energy']

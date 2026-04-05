@@ -5,37 +5,9 @@ Country: ro
 Primary NAICS: General Warehousing and Storage
 Candidate Score: 4.5
 Final Score Before LLM: 8.5
-Final Score After LLM: 8.5
-LLM Label: possible_match
+Final Score After LLM: 2.5
+LLM Label: not_match
 LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
+LLM Explanation: The company is a logistics and warehousing provider for e-commerce companies, not an e-commerce company itself. There is no indication it uses Shopify or similar platforms.
 Has Uncertainty: False
 Reasons: ['base candidate score: 4.5', 'matched required term: e-commerce']
-
-Rank 2
-Name: EasyKassa
-Website: easykassa.at
-Country: at
-Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
-Candidate Score: 2.25
-Final Score Before LLM: 6.25
-Final Score After LLM: 6.25
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 2.25', 'matched required term: e-commerce']
-
-Rank 3
-Name: Toys"R"Us
-Website: toysrus.com
-Country: us
-Primary NAICS: Hobby, Toy, and Game Retailers
-Candidate Score: 1.5
-Final Score Before LLM: 5.5
-Final Score After LLM: 5.5
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 1.5', 'matched required term: e-commerce']

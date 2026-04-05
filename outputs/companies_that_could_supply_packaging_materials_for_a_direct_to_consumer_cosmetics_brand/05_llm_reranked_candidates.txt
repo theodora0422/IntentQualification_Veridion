@@ -5,37 +5,9 @@ Country: kr
 Primary NAICS: All Other Plastics Product Manufacturing
 Candidate Score: 8.75
 Final Score Before LLM: 8.25
-Final Score After LLM: 8.25
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Final Score After LLM: 16.05
+LLM Label: strong_match
+LLM Score: 9
+LLM Explanation: The company explicitly manufactures and supplies a wide range of cosmetic packaging and containers for the cosmetics industry, directly fulfilling the need for packaging materials for a cosmetics brand. While their business model is B2B, they supply the essential packaging components that a direct-to-consumer cosmetics brand would require.
 Has Uncertainty: False
 Reasons: ['base candidate score: 8.75', 'matched required term: packaging', 'missing required term: packaging materials', 'matched supportive term:cosmetics', 'matched packaging related signals: 7']
-
-Rank 2
-Name: Sunshine Packaging
-Website: hzshengsha.com
-Country: cn
-Primary NAICS: Plastics Bottle Manufacturing
-Candidate Score: 9.5
-Final Score Before LLM: 8.0
-Final Score After LLM: 8.0
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 9.5', 'matched required term: packaging', 'missing required term: packaging materials', 'matched supportive term:cosmetics', 'matched packaging related signals: 6']
-
-Rank 3
-Name: YONWOO
-Website: yonwookorea.com
-Country: kr
-Primary NAICS: Plastics Bottle Manufacturing
-Candidate Score: 10.25
-Final Score Before LLM: 7.75
-Final Score After LLM: 7.75
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 10.25', 'matched required term: packaging', 'missing required term: packaging materials', 'matched supportive term:cosmetics', 'matched packaging related signals: 5']

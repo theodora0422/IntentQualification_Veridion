@@ -5,37 +5,9 @@ Country: is
 Primary NAICS: All Other Miscellaneous Electrical Equipment and Component Manufacturing
 Candidate Score: 4.5
 Final Score Before LLM: 8.5
-Final Score After LLM: 8.5
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 4.5', 'matched required term: battery']
-
-Rank 2
-Name: Rongbai Lithium Battery
-Website: ronbaymat.com
-Country: cn
-Primary NAICS: Other Basic Inorganic Chemical Manufacturing
-Candidate Score: 4.5
-Final Score Before LLM: 8.5
-Final Score After LLM: 8.5
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 4.5', 'matched required term: battery']
-
-Rank 3
-Name: Altmin
-Website: altmin.in
-Country: in
-Primary NAICS: Other Basic Inorganic Chemical Manufacturing
-Candidate Score: 4.5
-Final Score Before LLM: 8.5
-Final Score After LLM: 8.5
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Final Score After LLM: 2.7
+LLM Label: not_match
+LLM Score: 1
+LLM Explanation: The company manufactures battery chargers, which are related to batteries, but there is no evidence that they manufacture or supply critical components specifically for electric vehicle battery production. Their primary focus is on marine, wind turbines, and industrial automation sectors.
 Has Uncertainty: False
 Reasons: ['base candidate score: 4.5', 'matched required term: battery']

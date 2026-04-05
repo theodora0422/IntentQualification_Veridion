@@ -5,37 +5,9 @@ Country: fr
 Primary NAICS: Financial Transactions Processing, Reserve, and Clearinghouse Activities
 Candidate Score: 0.75
 Final Score Before LLM: 8.75
-Final Score After LLM: 8.75
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
+Final Score After LLM: 16.55
+LLM Label: strong_match
+LLM Score: 9
+LLM Explanation: European Pay is a French fintech company, clearly operating in Europe. Founded in 2022 with significant early revenue per employee, it shows signs of being fast-growing. Its core offerings, such as digital payment platforms and digital wallet services, directly compete with traditional banking services, even if the company also collaborates with banks.
 Has Uncertainty: False
 Reasons: ['base candidate score: 0.75', 'matched required term: fintech', 'matched fintech-related signals: 4']
-
-Rank 2
-Name: SkyHarvest
-Website: skyharvest.eu
-Country: at
-Primary NAICS: International, Secondary Market, and All Other Nondepository Credit Intermediation
-Candidate Score: 0.75
-Final Score Before LLM: 7.75
-Final Score After LLM: 7.75
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 0.75', 'matched required term: fintech', 'matched fintech-related signals: 3']
-
-Rank 3
-Name: Tietoevry
-Website: tietoevry.com
-Country: fi
-Primary NAICS: Computer Systems Design Services
-Candidate Score: 0.75
-Final Score Before LLM: 6.75
-Final Score After LLM: 6.75
-LLM Label: possible_match
-LLM Score: 0
-LLM Explanation: LLM unavailable; keeping deterministic ranking.
-Has Uncertainty: False
-Reasons: ['base candidate score: 0.75', 'matched required term: fintech', 'matched fintech-related signals: 2']
